@@ -43,7 +43,7 @@ Readings and resources
 **Supplementary Python textbook for Thurs classroom session**: 
 [Natural Language Processing with Python](https://www.nltk.org/book/) by Steven Bird, Ewan Klein, and Edward Loper. 
 
-## Jupyter notebooks
+### Jupyter notebooks
 
 
 **For classroom group exercises**:
@@ -59,11 +59,14 @@ Readings and resources
 **3Blue1Brown - YouTube**
 
 
-Course policies
-------------------
+Course details
+---------------
 
-Your instructors
-------------------
+Lecturer: Rebekah Baglini
+Instructor: Arnault V-Q 
+
+Module 1: Introduction and basic text processing 
+---------------------
 
 
 
