@@ -62,5 +62,8 @@ Readings and resources
 Course policies
 ------------------
 
+Your instructors
+------------------
+
 
 
