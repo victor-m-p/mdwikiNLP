@@ -1,4 +1,4 @@
-Course overview
+Natural Language Processing
 ============
 The course addresses how we can approach theoretical and applied topics in human cognition using computational linguistics and natural language processing tools. The course also addresses key ethical topics that arise from the analysis of freely available natural language data, and in the development of natural language processing software and technologies. 
 This course builds on students’ background knowledge in statistics and statistical programming, and introduces students to working with large data sets. The course builds towards the data science course. The course introduces students to ethical and philosophical topics, which will be extended on in the data science course. The course prepares students for careers involving analysis of text and other forms of natural language data, and for careers involving development of natural language software. 
@@ -7,7 +7,7 @@ See the [course catalog](https://kursuskatalog.au.dk/en/course/94415/Natural-lan
 
 
 Schedule 
-=========
+---------------------
 
 
 | Week | Date  | Lecture (Weds)                  | Class (Thurs)                       | HW Due (Weds)      | [Self-paced](https://github.com/leriomaggio/python-in-a-notebook)                       | [Readings](https://web.stanford.edu/~jurafsky/slp3/)       |
@@ -29,20 +29,22 @@ Schedule
 
 
 
+Assignments
+------------------
+
+Use Github classroom to upload your assignments. 
 
 Readings and resources 
-===========
+---------------------
 
-Readings
------------
-**For lecture**
+**Textbook chapters for Weds lectures**
 [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) (3rd ed. draft) by Dan Jurafsky and James H. Martin. 
 
-**Supplementary textbook for classroom session**: 
+**Supplementary Python textbook for Thurs classroom session**: 
 [Natural Language Processing with Python](https://www.nltk.org/book/) by Steven Bird, Ewan Klein, and Edward Loper. 
 
-Jupyter notebooks
----------------------
+## Jupyter notebooks
+
 
 **For classroom group exercises**:
 [The hands-on NLTK tutorial for NLP in Python](https://github.com/hb20007/hands-on-nltk-tutorial) 
@@ -50,9 +52,15 @@ Jupyter notebooks
 **For self-paced Python learning**:
 [leriomaggio's Collection of Jupyter Notebooks about Python programming](https://github.com/leriomaggio/python-in-a-notebook)
 
-More resources 
-------------------
+## More resources 
+
 **CS 124 videos - YouTube** 
 
 **3Blue1Brown - YouTube**
+
+
+Course policies
+------------------
+
+
 
