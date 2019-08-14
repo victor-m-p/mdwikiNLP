@@ -1,11 +1,13 @@
-## Course overview
+Course overview
+============
 The course addresses how we can approach theoretical and applied topics in human cognition using computational linguistics and natural language processing tools. The course also addresses key ethical topics that arise from the analysis of freely available natural language data, and in the development of natural language processing software and technologies. 
 This course builds on students’ background knowledge in statistics and statistical programming, and introduces students to working with large data sets. The course builds towards the data science course. The course introduces students to ethical and philosophical topics, which will be extended on in the data science course. The course prepares students for careers involving analysis of text and other forms of natural language data, and for careers involving development of natural language software. 
    
 See the [course catalog](https://kursuskatalog.au.dk/en/course/94415/Natural-language-processing) for more information. 
 
 
-## Schedule 
+Schedule 
+=========
 
 
 | Week | Date  | Lecture (Weds)                  | Class (Thurs)                       | HW Due (Weds)      | [Self-paced](https://github.com/leriomaggio/python-in-a-notebook)                       | [Readings](https://web.stanford.edu/~jurafsky/slp3/)       |
@@ -28,7 +30,8 @@ See the [course catalog](https://kursuskatalog.au.dk/en/course/94415/Natural-lan
 
 
 
-## Readings and resources 
+Readings and resources 
+===========
 
 ### Readings for lecture
 [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) (3rd ed. draft) by Dan Jurafsky and James H. Martin. 
