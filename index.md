@@ -33,21 +33,25 @@ Schedule
 Readings and resources 
 ===========
 
-### Readings for lecture
+Readings
+-----------
+**For lecture**
 [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) (3rd ed. draft) by Dan Jurafsky and James H. Martin. 
 
-### Supplementary textbook for classroom session: 
+**Supplementary textbook for classroom session**: 
 [Natural Language Processing with Python](https://www.nltk.org/book/) by Steven Bird, Ewan Klein, and Edward Loper. 
 
-## Jupyter notebooks
+Jupyter notebooks
+---------------------
 
-### For classroom group exercises:
+**For classroom group exercises**:
 [The hands-on NLTK tutorial for NLP in Python](https://github.com/hb20007/hands-on-nltk-tutorial) 
 
-### For self-paced Python learning:
+**For self-paced Python learning**:
 [leriomaggio's Collection of Jupyter Notebooks about Python programming](https://github.com/leriomaggio/python-in-a-notebook)
 
-## More resources
+More resources 
+------------------
 **CS 124 videos - YouTube** 
 
 **3Blue1Brown - YouTube**
