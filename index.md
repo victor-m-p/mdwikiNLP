@@ -26,7 +26,7 @@ Schedule
 | 48   | 27/11 | NLP in research                 |                                     |                    |                                  |                |
 | 49   | 4/12  | NLP in industry                 |                                     |                    |                                  |                |
 | 50   | 11/12 | NLU and AI                      |                                     |                    |                                  | J+M15          |
-{: .table .tablelines table-bordered .table-striped}
+
 
 
 
