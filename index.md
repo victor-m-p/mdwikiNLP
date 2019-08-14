@@ -52,7 +52,7 @@ Readings and resources
 **For self-paced Python learning**:
 [leriomaggio's Collection of Jupyter Notebooks about Python programming](https://github.com/leriomaggio/python-in-a-notebook)
 
-## More resources 
+### More resources 
 
 **CS 124 videos - YouTube** 
 
