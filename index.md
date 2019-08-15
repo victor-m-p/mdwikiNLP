@@ -16,6 +16,7 @@ This course builds on students’ background knowledge in statistics and statist
    
 See the [course catalog](https://kursuskatalog.au.dk/en/course/94415/Natural-language-processing) for more information. 
 
+---------------------------------------
 
 Schedule 
 ---------------------
@@ -76,13 +77,14 @@ This class will involve lots of hands-on implementation in Python. We will start
 ### Basic elements of Python 
 
 In order to complete the classroom group work and coding assignments, it will help to have a basic understanding of the following: 
-* variables and variable assignment
-* strings, numbers (intergers and floats), basic arithmetic operations
-* lists, sets, tuples, dictionaries 
-* simple input and output
-* conditional (if) statements
-* while and for loops 
-* functions and classes 
+
++ variables and variable assignment
++ strings, numbers (intergers and floats), basic arithmetic operations
++ lists, sets, tuples, dictionaries 
++ simple input and output
++ conditional (if) statements
++ while and for loops 
++ functions and classes 
 
 By "basic understanding" I mean that you have a grasp of what these different elements do and how they differ from one another. (See also **What does is mean to learn programming?** below.) 
 
