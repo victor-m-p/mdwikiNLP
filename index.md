@@ -39,7 +39,7 @@ Schedule
 | 49   | 4/12  | NLP in industry                 |                                     |                    |                                  |                |
 | 50   | 11/12 | NLU and AI                      |                                     |                    |                                  | J+M15          |
 
----------------------------------------
+
 ---------------------------------------
 
 Readings and resources 
@@ -65,7 +65,7 @@ Readings and resources
 
 **3Blue1Brown - YouTube**
 
----------------------------------------
+
 ---------------------------------------
 Learning to program 
 ---------------
@@ -162,7 +162,6 @@ This meme is funny because it's true. Programming can only be learned by doing. 
 When you have a questions or encounter a snag, Google it. If you don't find anything the first time, try rephrasing the question. It's almost certain 80% that someone has asked a version of the exact same question on StackExchange. 
 
 ---------------------------------------
----------------------------------------
 Learning Modules 
 ---------------------
 
@@ -222,7 +221,6 @@ Learning Modules
 
 [Vector semantics 13_8-13_10](https://www.youtube.com/watch?v=5SUzf6252_0&list=PLaZQkZp6WhWyszpcteV4LFgJ8lQJ5WIxK)
 
----------------------------------------
 ---------------------------------------
 Assessment and exam
 --------------
