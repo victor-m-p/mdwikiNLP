@@ -62,15 +62,12 @@ Readings and resources
 
 **3Blue1Brown - YouTube**
 
-Computer set-up
----------------
-
-You are expected to bring a laptop to every lecture and class. Please make sure to install [Anaconda](www.anaconda.com) before our first meeting. 
-
 Learning to program 
 ---------------
 
-The NLP class will be a combination of theory and practice, including lots of hands-on implementation in Python. We will be starting off very gently, but it is important to note that this is *not* an introduction to Python programming class - i.e. you will not be formally instructed on matters like "what makes Python an object-oriented programming language?" and "when should one use a list versus a tuple?", nor will you be penalized for inelegant coding solutions. If the code accomplishes what it's supposed to, that's what matters. 
+Note: You are expected to bring a laptop to every lecture and class. Please make sure to install [Anaconda](www.anaconda.com) before our first meeting. 
+
+This class will involve lots of hands-on implementation in Python. We will start off very gently, but note that this is *not* an introduction to Python programming class - i.e. you will not be formally instructed on matters like "what makes Python an object-oriented programming language?" and "when should one use a list versus a tuple?", nor will you be penalized for inelegant coding solutions. If the code accomplishes what it's supposed to, that's what matters. 
 
 ### Basic elements of Python 
 
@@ -159,6 +156,7 @@ When you have a questions or encounter a snag, Google it. If you don't find anyt
 
 Learning Modules 
 ---------------------
+
 
 ### Module: Introduction/Why NLP? 
 
