@@ -120,9 +120,9 @@ The function should search the string for occurences of the letter and return an
 
 Note: Your function should be case-insensitive, i.e. it shouldn't care if the letter is "H" or "h"
 
->**Task 3: Function *isEven***
->Write a function which evaluates if a given integer number (given as a parameter for the function) is an even number. The >function should return a Boolean value True if the number is even and False if the number is odd.
->Given a list (or array) of *n* integer numbers, write a program which uses the function *isEven* to determines the number >of even items in the list.
+**Task 3: Function *isEven***
+Write a function which evaluates if a given integer number (given as a parameter for the function) is an even number. The function should return a Boolean value True if the number is even and False if the number is odd.
+Given a list (or array) of *n* integer numbers, write a program which uses the function *isEven* to determines the number of even items in the list.
 
 **Task 4: Search in List**
 Given a list (or array) of *n* floating-point numbers, write a program which searches and outputs the largest number in the list.
