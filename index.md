@@ -65,6 +65,89 @@ Course details
 Lecturer: Rebekah Baglini
 Instructor: Arnault V-Q 
 
+On programming 
+---------------
+
+
+The NLP class will be a combination of theory and practice, including lots of hands-on implementation in Python. We will be starting off very gently, but it is important to note that this is *not* an introduction to Python programming class - i.e. you will not be formally instructed on matters like "what makes Python an object-oriented programming language?" and "when should one use a list versus a tuple?", nor will you be penalized for inelegant coding solutions. If the code accomplishes what it's supposed to, that's what matters. 
+
+### Basic elements of Python 
+
+In order to complete the classroom group work and coding assignments, it will help to have a basic understanding of the following: 
+- variables and variable assignment
+- strings, numbers (intergers and floats), basic arithmetic operations
+- lists, sets, tuples, dictionaries 
+- simple input and output
+- conditional (if) statements
+- while and for loops 
+- functions and classes 
+
+By "basic understanding" I mean that you have a grasp of what these different elements do and how they differ from one another. (See also **What does is mean to learn programming?** below.) 
+
+Although can certainly learn these 'as-you-go' during the class, I highly recommend preparing doing a few hours of Python self-paced study in advance. You can use the following self-assessment test for guidance. 
+
+
+### Self-assessment test for Python programming readiness: 
+
+
+Below is a list of five small programming tasks to help you assess your level of Python proficiency. 
+
+1. Task: Adding machine 
+
+Write a function that adds two numbers x,y and returns the output x + y. Sample input might be x=-1, y=8 in which case the expected output is 7. The expected output is either float or int.
+
+2. Task: Character count
+
+Write a function that takes two arguments
+
+- *s* an arbitrary string.
+- *l* a letter (i.e. any valid single character).
+
+The function should search the string for occurences of the letter and return an integer indicating how many times the letter *l* occurs in the string *s*.
+
+Note: Your function should be case-insensitive, i.e. it shouldn't care if the letter is "H" or "h"
+
+3. Task: Function *isEven*
+Write a function which evaluates if a given integer number (given as a parameter for the function) is an even number. The function should return a Boolean value True if the number is even and False if the number is odd.
+
+Given a list (or array) of *n* integer numbers, write a program which uses the function *isEven* to determines the number of even items in the list.
+
+4. Task: Search in List
+
+Given a list (or array) of *n* floating-point numbers, write a program which searches and outputs the largest number in the list.
+
+5. Task: String and Loops
+Write a function which takes a string (word) as an argument. The function should print the complete word on the first line and remove the last character on each successive line, ending with a single (the first) character.
+
+Example:
+Input word: Test
+Function output:
+Test
+Tes
+Te
+
+6. Get dict keys 
+
+Write a function that takes as it's single input any dictionary
+The function should return the keys of the input dictionary, in a list.
+
+
+### Ok. I need to learn some things. Where should I start? 
+If you're starting from 0, that's okay! Just spend a bit of time on self-paced study. There are a dizzying array of Python study options online, including many you can do from your web browser (Coursera, LearnPython.org, DataCamp). If you go ahead and set up your computer for the class, I highly recommend following this course: 
+
+[Python in a notebook](https://github.com/leriomaggio/python-in-a-notebook) 
+This course will also familiarizing you with Jupyter notebooks, which we will be using a lot this semester. 
+
+### What does it mean to learn programming? 
+
+Perhaps you are thinking: 
+
+"I'll never be able to just sit down and code up whole programs from scratch!" And you're right! Because nobody does (despite what you see in the movies). 
+
+![](googlingstuff.png)
+
+When you have a questions or encounter a snag, your best bet is Google. There's an 80% chance someone has already asked the same question on StackExchange. 
+
 Module 1: Introduction and basic text processing 
 ---------------------
 
