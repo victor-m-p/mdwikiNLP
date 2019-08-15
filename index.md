@@ -147,14 +147,6 @@ If you're starting from 0, that's okay! Just spend a bit of time on self-paced s
 [Python in a notebook](https://github.com/leriomaggio/python-in-a-notebook) 
 This course will also familiarizing you with Jupyter notebooks, which we will be using a lot this semester. 
 
-### What does it mean to learn programming? 
-
-![](googlingstuff.jpg)
-
-This meme is funny because it's true. Programming can only be learned by doing. And no matter how much experience you have, it's a process of trial, error, and **lots and lots of Googling.** 
-
-When you have a questions or encounter a snag, Google it. If you don't find anything the first time, try rephrasing the question. It's almost certain 80% that someone has asked a version of the exact same question on StackExchange. 
-
 Troubleshooting and email policy
 ---------------------
 You're working on a group programming project and you're stuck. What do you do? 
@@ -171,11 +163,13 @@ Still stuck?
 
 Note! *Email your instructors* is not listed as an option above. This is not because we don't care. But we simply do not have enough paid hours to provide help over email (which, of course, would really just outsource the Googling to us)! Do your best, get as far as you can, work with your classmates, and seek help in the Thursday classroom sessions. 
 
+![](googlingstuff.jpg)
 
+This meme is funny because it's true. Programming can only be learned by doing. And no matter how much experience you have, it's a process of trial, error, and **lots and lots of Googling.** 
 
+When you have a questions or encounter a snag, Google it. If you don't find anything the first time, try rephrasing the question. It's almost certain 80% that someone has asked a version of the exact same question on StackExchange. 
 
-
-Module 1: Introduction and basic text processing 
+Learning Modules 
 ---------------------
 
 
