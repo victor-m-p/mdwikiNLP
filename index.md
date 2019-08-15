@@ -29,14 +29,6 @@ Schedule
 
 
 
-[](https://www.youtube.com/watch?v=5SUzf6252_0&list=PLaZQkZp6WhWyszpcteV4LFgJ8lQJ5WIxK)
-
-Note! 
-
-Hint: 
-
-Warning: 
-
 | Week | Date  | Lecture (Weds)                  | Class (Thurs)                       | HW Due (Weds)      | [Self-paced](https://github.com/leriomaggio/python-in-a-notebook)                       | [Readings](https://web.stanford.edu/~jurafsky/slp3/)       |
 |------|-------|---------------------------------|-------------------------------------|--------------------|----------------------------------|----------------|
 | 37   | 11/9  | Introduction/Text processing    | Regex, normalization | Computer set-up    | 00-03 (basic objects)            | J+M2           |
