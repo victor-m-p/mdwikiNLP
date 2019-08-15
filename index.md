@@ -141,10 +141,15 @@ This course will also familiarizing you with Jupyter notebooks, which we will be
 
 Troubleshooting and email policy
 ---------------------
+
+![](googlingstuff.jpg)
+
+This meme is funny because it's true. Programming can only be learned by doing. And no matter how much experience you have, it's a process of trial, error, and **lots and lots of Googling.** 
+
 You're working on a group programming project and you're stuck. What do you do? 
 
 1. Google it. 
-2. Google it again. 
+2. Google it again. Try creative rephrasing. There is a very high chance someone has asked some version of your exac question on [StackExchange](www.stackexchange.org).
 3. Try backtracking and simplifying your code. 
 4. Use Google to find an alternative way of accomplishing the same task. 
 
@@ -155,16 +160,12 @@ Still stuck?
 
 Note! *Email your instructors* is not listed as an option above. This is not because we don't care. But we simply do not have enough paid hours to provide help over email (which, of course, would really just outsource the Googling to us)! Do your best, get as far as you can, work with your classmates, and seek help in the Thursday classroom sessions. 
 
-![](googlingstuff.jpg)
-
-This meme is funny because it's true. Programming can only be learned by doing. And no matter how much experience you have, it's a process of trial, error, and **lots and lots of Googling.** 
-
-When you have a questions or encounter a snag, Google it. If you don't find anything the first time, try rephrasing the question. It's almost certain 80% that someone has asked a version of the exact same question on StackExchange. 
 
 ---------------------------------------
 Learning Modules 
 ---------------------
 
+---------------------------------------
 
 ### Module: Introduction/Why NLP? 
 
