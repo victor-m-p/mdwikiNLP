@@ -106,8 +106,8 @@ By "basic understanding" I mean that you have a grasp of what these different el
 Although can certainly learn these 'as-you-go' during the class, I highly recommend preparing doing a few hours of Python self-paced study in advance. You can use the following self-assessment test for guidance. 
 
 
-### Self-assessment test for Python programming readiness: 
-
+---
+**Self-assessment test for Python programming readiness:** 
 
 Below is a list of five small programming tasks to help you assess your level of Python proficiency. 
 
@@ -141,7 +141,7 @@ Te
 **Task 6: Get dict keys** 
 Write a function that takes as it's single input any dictionary
 The function should return the keys of the input dictionary, in a list.
-
+---
 
 ### Ok. I need to learn some things. Where should I start? 
 If you're starting from 0, that's okay! Just spend a bit of time on self-paced study. There are a dizzying array of Python study options online, including many you can do from your web browser (Coursera, LearnPython.org, DataCamp). If you go ahead and set up your computer for the class, I highly recommend following this course: 
