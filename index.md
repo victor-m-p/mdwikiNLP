@@ -121,10 +121,10 @@ Given a list (or array) of *n* floating-point numbers, write a program which sea
 Write a function which takes a string (word) as an argument. The function should print the complete word on the first line and remove the last character on each successive line, ending with a single (the first) character. 
 Example: Input word is Test
 Function output:
-´´´Test
+```Test
 Tes
 Te
-
+```
 
 **Task 6: Get dict keys** 
 
