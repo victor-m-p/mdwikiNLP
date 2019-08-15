@@ -9,25 +9,6 @@ See the [course catalog](https://kursuskatalog.au.dk/en/course/94415/Natural-lan
 Schedule 
 ---------------------
 
-[Regex: Videos 1_1 - 1_4](https://www.youtube.com/playlist?list=PLaZQkZp6WhWy4_bClrW9EGQKnUUD9yp8V)
-
-[Minimum edit distance 2_1-2_5](https://www.youtube.com/playlist?list=PLaZQkZp6WhWy4_bClrW9EGQKnUUD9yp8V)
-
-[Language modeling 3_1-3_8](https://www.youtube.com/watch?v=hM49MPmakNI&list=PLaZQkZp6WhWwJllbfwOD9cbIHXmdkOICY)
-
-[Naive Bayes 5_1-5_9](https://www.youtube.com/watch?v=Y1j_J53k7fo&list=PLaZQkZp6WhWxU3kA6wV0nb5dY1SXDEKWH)
-
-[Sentiment analysis 6_1-6_5](https://www.youtube.com/watch?v=Y1j_J53k7fo&list=PLaZQkZp6WhWxU3kA6wV0nb5dY1SXDEKWH)
-
-[Information retrieval 7_1-7_6](https://www.youtube.com/watch?v=kNkCfaH2rxc&list=PLaZQkZp6WhWwoDuD6pQCmgVyDbUWl_ZUi)
-
-[Information retrieval 7_1-7_6](https://www.youtube.com/watch?v=kNkCfaH2rxc&list=PLaZQkZp6WhWwoDuD6pQCmgVyDbUWl_ZUi)
-
-[Information extraction and NER 9_1-10-5](https://www.youtube.com/watch?v=5SUzf6252_0&list=PLaZQkZp6WhWyszpcteV4LFgJ8lQJ5WIxK) 
-
-[Vector semantics 13_8-13_10](https://www.youtube.com/watch?v=5SUzf6252_0&list=PLaZQkZp6WhWyszpcteV4LFgJ8lQJ5WIxK)
-
-
 
 | Week | Date  | Lecture (Weds)                  | Class (Thurs)                       | HW Due (Weds)      | [Self-paced](https://github.com/leriomaggio/python-in-a-notebook)                       | [Readings](https://web.stanford.edu/~jurafsky/slp3/)       |
 |------|-------|---------------------------------|-------------------------------------|--------------------|----------------------------------|----------------|
@@ -106,7 +87,7 @@ By "basic understanding" I mean that you have a grasp of what these different el
 Although can certainly learn these 'as-you-go' during the class, I highly recommend preparing doing a few hours of Python self-paced study in advance. Below is a list of five small programming tasks to help you assess your level of Python proficiency. 
 
 ---
-**Self-assessment test for Python programming readiness:** 
+### Self-assessment test for Python programming readiness:
 
 **Task 1: Adding machine**
 Write a function that adds two numbers x,y and returns the output x + y. Sample input might be x=-1, y=8 in which case the expected output is 7. The expected output is either float or int.
@@ -172,5 +153,48 @@ When you have a questions or encounter a snag, Google it. If you don't find anyt
 Learning Modules 
 ---------------------
 
+### Module: Introduction/Why NLP? 
 
+---------------------------------------
+
+### Module: Text processing and regular expressions 
+
+**Keywords**
+
+**Videos** 
+[Regex: Videos 1_1 - 1_4](https://www.youtube.com/playlist?list=PLaZQkZp6WhWy4_bClrW9EGQKnUUD9yp8V)
+
+---------------------------------------
+
+### Module: Edit distance 
+
+[Minimum edit distance 2_1-2_5](https://www.youtube.com/playlist?list=PLaZQkZp6WhWy4_bClrW9EGQKnUUD9yp8V)
+
+### Module: Counting things and language modeling 
+
+[Language modeling 3_1-3_8](https://www.youtube.com/watch?v=hM49MPmakNI&list=PLaZQkZp6WhWwJllbfwOD9cbIHXmdkOICY)
+
+### Module: Naive Bayes 
+
+[Naive Bayes 5_1-5_9](https://www.youtube.com/watch?v=Y1j_J53k7fo&list=PLaZQkZp6WhWxU3kA6wV0nb5dY1SXDEKWH)
+
+### Module: Alignment 
+
+### Module: Sentiment analysis
+
+[Sentiment analysis 6_1-6_5](https://www.youtube.com/watch?v=Y1j_J53k7fo&list=PLaZQkZp6WhWxU3kA6wV0nb5dY1SXDEKWH)
+
+### Module: Information retrieval 
+
+[Information retrieval 7_1-7_6](https://www.youtube.com/watch?v=kNkCfaH2rxc&list=PLaZQkZp6WhWwoDuD6pQCmgVyDbUWl_ZUi)
+
+[Information retrieval 7_1-7_6](https://www.youtube.com/watch?v=kNkCfaH2rxc&list=PLaZQkZp6WhWwoDuD6pQCmgVyDbUWl_ZUi)
+
+### Module: Information extraction and question answering
+
+[Information extraction and NER 9_1-10-5](https://www.youtube.com/watch?v=5SUzf6252_0&list=PLaZQkZp6WhWyszpcteV4LFgJ8lQJ5WIxK) 
+
+### Module: Vector semantics
+
+[Vector semantics 13_8-13_10](https://www.youtube.com/watch?v=5SUzf6252_0&list=PLaZQkZp6WhWyszpcteV4LFgJ8lQJ5WIxK)
 
