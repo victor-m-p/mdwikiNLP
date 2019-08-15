@@ -149,14 +149,31 @@ This course will also familiarizing you with Jupyter notebooks, which we will be
 
 ### What does it mean to learn programming? 
 
-Perhaps you are thinking:
-> I'll never be able to just sit down and code up whole programs from scratch! 
-
-And you would be right! Because nobody does (despite what you see in the movies). 
-
 ![](googlingstuff.jpg)
 
-When you have a questions or encounter a snag, your best bet is Google. There's an 80% chance someone has already asked the same question on StackExchange. 
+This meme is funny because it's true. Programming can only be learned by doing. And no matter how much experience you have, it's a process of trial, error, and **lots and lots of Googling.** 
+
+When you have a questions or encounter a snag, Google it. If you don't find anything the first time, try rephrasing the question. It's almost certain 80% that someone has asked a version of the exact same question on StackExchange. 
+
+Troubleshooting and email policy
+---------------------
+You're working on a group programming project and you're stuck. What do you do? 
+
+1. Google it. 
+2. Google it again. 
+3. Try backtracking and simplifying your code. 
+4. Use Google to find an alternative way of accomplishing the same task. 
+
+Still stuck? 
+
+5. Ask your classmates in the forum. 
+6. Bring it to class on Thursday to troubleshoot. 
+
+Note! *Email your instructors* is not listed as an option above. This is not because we don't care. But we simply do not have enough paid hours to provide help over email (which, of course, would really just outsource the Googling to us)! Do your best, get as far as you can, work with your classmates, and seek help in the Thursday classroom sessions. 
+
+
+
+
 
 Module 1: Introduction and basic text processing 
 ---------------------
