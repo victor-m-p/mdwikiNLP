@@ -9,10 +9,29 @@ See the [course catalog](https://kursuskatalog.au.dk/en/course/94415/Natural-lan
 Schedule 
 ---------------------
 
+[Regex: Videos 1_1 - 1_4](https://www.youtube.com/playlist?list=PLaZQkZp6WhWy4_bClrW9EGQKnUUD9yp8V)
+
+[Minimum edit distance 2_1-2_5](https://www.youtube.com/playlist?list=PLaZQkZp6WhWy4_bClrW9EGQKnUUD9yp8V)
+
+[Language modeling 3_1-3_8](https://www.youtube.com/watch?v=hM49MPmakNI&list=PLaZQkZp6WhWwJllbfwOD9cbIHXmdkOICY)
+
+[Naive Bayes 5_1-5_9](https://www.youtube.com/watch?v=Y1j_J53k7fo&list=PLaZQkZp6WhWxU3kA6wV0nb5dY1SXDEKWH)
+
+[Sentiment analysis 6_1-6_5](https://www.youtube.com/watch?v=Y1j_J53k7fo&list=PLaZQkZp6WhWxU3kA6wV0nb5dY1SXDEKWH)
+
+[Information retrieval 7_1-7_6](https://www.youtube.com/watch?v=kNkCfaH2rxc&list=PLaZQkZp6WhWwoDuD6pQCmgVyDbUWl_ZUi)
+
+[Information retrieval 7_1-7_6](https://www.youtube.com/watch?v=kNkCfaH2rxc&list=PLaZQkZp6WhWwoDuD6pQCmgVyDbUWl_ZUi)
+
+[Information extraction and NER 9_1-10-5](https://www.youtube.com/watch?v=5SUzf6252_0&list=PLaZQkZp6WhWyszpcteV4LFgJ8lQJ5WIxK) 
+
+[Vector semantics 13_8-13_10](https://www.youtube.com/watch?v=5SUzf6252_0&list=PLaZQkZp6WhWyszpcteV4LFgJ8lQJ5WIxK)
+
+
 
 | Week | Date  | Lecture (Weds)                  | Class (Thurs)                       | HW Due (Weds)      | [Self-paced](https://github.com/leriomaggio/python-in-a-notebook)                       | [Readings](https://web.stanford.edu/~jurafsky/slp3/)       |
 |------|-------|---------------------------------|-------------------------------------|--------------------|----------------------------------|----------------|
-| 37   | 11/9  | Introduction/Text processing    | Regex, edit distance, normalization | Computer set-up    | 00-03 (basic objects)            | J+M2           |
+| 37   | 11/9  | Introduction/Text processing    | Regex, normalization | Computer set-up    | 00-03 (basic objects)            | J+M2           |
 | 38   | 18/9  | Language modeling               | Ngrams                              |                    | 04-05 (if, while, for loops)     | J+M3           |
 | 39   | 25/9  | Text classification             | Naive Bayes                         |                    | 06-07 (dictionaries, functions)  | J+M4           |
 | 40   | 2/10  | Linguistic alignment            |                                     |                    | 08 (classes, OOP)                | TBA (Riccardo) |
