@@ -108,7 +108,10 @@ Although can certainly learn these 'as-you-go' during the class, I highly recomm
 ---
 **Self-assessment test for Python programming readiness:** 
 
-**Task 1: Adding machine** 
+> **_Task 1:_**
+sfsdsdf
+
+> **_Task 1: Adding machine_**
 Write a function that adds two numbers x,y and returns the output x + y. Sample input might be x=-1, y=8 in which case the expected output is 7. The expected output is either float or int.
 
 **Task 2: Character count**
