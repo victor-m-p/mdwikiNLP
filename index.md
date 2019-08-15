@@ -108,10 +108,7 @@ Although can certainly learn these 'as-you-go' during the class, I highly recomm
 ---
 **Self-assessment test for Python programming readiness:** 
 
-> **_Task 1:_**
-sfsdsdf
-
-> **_Task 1: Adding machine_**
+**Task 1: Adding machine**
 Write a function that adds two numbers x,y and returns the output x + y. Sample input might be x=-1, y=8 in which case the expected output is 7. The expected output is either float or int.
 
 **Task 2: Character count**
@@ -134,11 +131,9 @@ Given a list (or array) of *n* floating-point numbers, write a program which sea
 Write a function which takes a string (word) as an argument. The function should print the complete word on the first line and remove the last character on each successive line, ending with a single (the first) character. 
 Example: Input word is Test
 Function output:
-
-```Test
+Test
 Tes
 Te
-```
 
 **Task 6: Get dict keys** 
 Write a function that takes as it's single input any dictionary
