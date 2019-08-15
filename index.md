@@ -29,6 +29,14 @@ Schedule
 
 
 
+[](https://www.youtube.com/watch?v=5SUzf6252_0&list=PLaZQkZp6WhWyszpcteV4LFgJ8lQJ5WIxK)
+
+Note! 
+
+Hint: 
+
+Warning: 
+
 | Week | Date  | Lecture (Weds)                  | Class (Thurs)                       | HW Due (Weds)      | [Self-paced](https://github.com/leriomaggio/python-in-a-notebook)                       | [Readings](https://web.stanford.edu/~jurafsky/slp3/)       |
 |------|-------|---------------------------------|-------------------------------------|--------------------|----------------------------------|----------------|
 | 37   | 11/9  | Introduction/Text processing    | Regex, normalization | Computer set-up    | 00-03 (basic objects)            | J+M2           |
@@ -132,9 +140,11 @@ Given a list (or array) of *n* floating-point numbers, write a program which sea
 Write a function which takes a string (word) as an argument. The function should print the complete word on the first line and remove the last character on each successive line, ending with a single (the first) character. 
 Example: Input word is Test
 Function output:
-Test
+
+```Test
 Tes
 Te
+```
 
 **Task 6: Get dict keys** 
 Write a function that takes as it's single input any dictionary
@@ -150,7 +160,8 @@ This course will also familiarizing you with Jupyter notebooks, which we will be
 
 ### What does it mean to learn programming? 
 
-Perhaps you are thinking: *I'll never be able to just sit down and code up whole programs from scratch!* 
+Perhaps you are thinking:
+> I'll never be able to just sit down and code up whole programs from scratch! 
 
 And you would be right! Because nobody does (despite what you see in the movies). 
 
