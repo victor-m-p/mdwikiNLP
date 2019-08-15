@@ -1,5 +1,10 @@
 Natural Language Processing
 ============
+|           | When?         | Where? | Who?                      |
+|-----------|---------------|--------|---------------------------|
+| Lectures  | Weds 8-10am   | 1441-012  | Rebekah Baglini           |
+| Classroom | Thurs 10-12am | 1465-120  | Arnault-Quentin Vermillet |
+
 The course addresses how we can approach theoretical and applied topics in human cognition using computational linguistics and natural language processing tools. The course also addresses key ethical topics that arise from the analysis of freely available natural language data, and in the development of natural language processing software and technologies. 
 This course builds on students’ background knowledge in statistics and statistical programming, and introduces students to working with large data sets. The course builds towards the data science course. The course introduces students to ethical and philosophical topics, which will be extended on in the data science course. The course prepares students for careers involving analysis of text and other forms of natural language data, and for careers involving development of natural language software. 
    
@@ -45,7 +50,6 @@ Readings and resources
 
 ### Jupyter notebooks
 
-
 **For classroom group exercises**:
 [The hands-on NLTK tutorial for NLP in Python](https://github.com/hb20007/hands-on-nltk-tutorial) 
 
@@ -58,12 +62,6 @@ Readings and resources
 
 **3Blue1Brown - YouTube**
 
-
-Course details
----------------
-
-Lecturer: Rebekah Baglini
-Instructor: Arnault V-Q 
 
 Learning to program 
 ---------------
@@ -170,7 +168,7 @@ Learning Modules
 
 [Minimum edit distance 2_1-2_5](https://www.youtube.com/playlist?list=PLaZQkZp6WhWy4_bClrW9EGQKnUUD9yp8V)
 
-### Module: Counting things and language modeling 
+### Module: Counting, classifying, and language modeling 
 
 [Language modeling 3_1-3_8](https://www.youtube.com/watch?v=hM49MPmakNI&list=PLaZQkZp6WhWwJllbfwOD9cbIHXmdkOICY)
 
@@ -179,6 +177,7 @@ Learning Modules
 [Naive Bayes 5_1-5_9](https://www.youtube.com/watch?v=Y1j_J53k7fo&list=PLaZQkZp6WhWxU3kA6wV0nb5dY1SXDEKWH)
 
 ### Module: Alignment 
+
 
 ### Module: Sentiment analysis
 
