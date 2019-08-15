@@ -132,11 +132,11 @@ This course will also familiarizing you with Jupyter notebooks, which we will be
 
 ### What does it mean to learn programming? 
 
-Perhaps you are thinking: 
+Perhaps you are thinking: *I'll never be able to just sit down and code up whole programs from scratch!* 
 
-"I'll never be able to just sit down and code up whole programs from scratch!" And you're right! Because nobody does (despite what you see in the movies). 
+And you would be right! Because nobody does (despite what you see in the movies). 
 
-![](googlingstuff.png)
+![](googlingstuff.jpg)
 
 When you have a questions or encounter a snag, your best bet is Google. There's an 80% chance someone has already asked the same question on StackExchange. 
 
