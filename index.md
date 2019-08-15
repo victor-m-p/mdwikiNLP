@@ -62,10 +62,13 @@ Readings and resources
 
 **3Blue1Brown - YouTube**
 
+Computer set-up
+---------------
+
+You are expected to bring a laptop to every lecture and class. Please make sure to install [Anaconda](www.anaconda.com) before our first meeting. 
 
 Learning to program 
 ---------------
-
 
 The NLP class will be a combination of theory and practice, including lots of hands-on implementation in Python. We will be starting off very gently, but it is important to note that this is *not* an introduction to Python programming class - i.e. you will not be formally instructed on matters like "what makes Python an object-oriented programming language?" and "when should one use a list versus a tuple?", nor will you be penalized for inelegant coding solutions. If the code accomplishes what it's supposed to, that's what matters. 
 
@@ -164,6 +167,10 @@ Learning Modules
 ### Module: Text processing and regular expressions 
 
 **Keywords**
+
+**Questions**
+* What do we mean by "natural language"? What would be an example of a non-natural language? 
+* What kinds of features of natural languages make automated processing difficult?
 
 **Videos** 
 [Regex: Videos 1_1 - 1_4](https://www.youtube.com/playlist?list=PLaZQkZp6WhWy4_bClrW9EGQKnUUD9yp8V)
