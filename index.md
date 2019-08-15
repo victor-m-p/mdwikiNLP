@@ -38,8 +38,8 @@ Schedule
 | 49   | 4/12  | NLP in industry                 |                                     |                    |                                  |                |
 | 50   | 11/12 | NLU and AI                      |                                     |                    |                                  | J+M15          |
 
-
-
+---------------------------------------
+---------------------------------------
 
 Readings and resources 
 ---------------------
@@ -64,6 +64,8 @@ Readings and resources
 
 **3Blue1Brown - YouTube**
 
+---------------------------------------
+---------------------------------------
 Learning to program 
 ---------------
 
@@ -86,7 +88,7 @@ By "basic understanding" I mean that you have a grasp of what these different el
 
 Although can certainly learn these 'as-you-go' during the class, I highly recommend preparing doing a few hours of Python self-paced study in advance. Below is a list of five small programming tasks to help you assess your level of Python proficiency. 
 
----
+---------------------------------------
 ### Self-assessment test for Python programming readiness:
 
 **Task 1: Adding machine**
@@ -127,7 +129,7 @@ Te
 Write a function that takes as it's single input any dictionary
 The function should return the keys of the input dictionary, in a list.
 
----
+---------------------------------------
 
 ### Ok. I need to learn some things. Where should I start? 
 If you're starting from 0, that's okay! Just spend a bit of time on self-paced study. There are a dizzying array of Python study options online, including many you can do from your web browser (Coursera, LearnPython.org, DataCamp). If you go ahead and set up your computer for the class, I highly recommend following this course: 
@@ -157,6 +159,8 @@ This meme is funny because it's true. Programming can only be learned by doing. 
 
 When you have a questions or encounter a snag, Google it. If you don't find anything the first time, try rephrasing the question. It's almost certain 80% that someone has asked a version of the exact same question on StackExchange. 
 
+---------------------------------------
+---------------------------------------
 Learning Modules 
 ---------------------
 
@@ -182,35 +186,42 @@ Learning Modules
 
 [Minimum edit distance 2_1-2_5](https://www.youtube.com/playlist?list=PLaZQkZp6WhWy4_bClrW9EGQKnUUD9yp8V)
 
+---------------------------------------
 ### Module: Counting, classifying, and language modeling 
 
 [Language modeling 3_1-3_8](https://www.youtube.com/watch?v=hM49MPmakNI&list=PLaZQkZp6WhWwJllbfwOD9cbIHXmdkOICY)
 
+---------------------------------------
 ### Module: Naive Bayes 
 
 [Naive Bayes 5_1-5_9](https://www.youtube.com/watch?v=Y1j_J53k7fo&list=PLaZQkZp6WhWxU3kA6wV0nb5dY1SXDEKWH)
 
+---------------------------------------
 ### Module: Alignment 
 
-
+---------------------------------------
 ### Module: Sentiment analysis
 
 [Sentiment analysis 6_1-6_5](https://www.youtube.com/watch?v=Y1j_J53k7fo&list=PLaZQkZp6WhWxU3kA6wV0nb5dY1SXDEKWH)
-
+---------------------------------------
 ### Module: Information retrieval 
 
 [Information retrieval 7_1-7_6](https://www.youtube.com/watch?v=kNkCfaH2rxc&list=PLaZQkZp6WhWwoDuD6pQCmgVyDbUWl_ZUi)
 
 [Information retrieval 7_1-7_6](https://www.youtube.com/watch?v=kNkCfaH2rxc&list=PLaZQkZp6WhWwoDuD6pQCmgVyDbUWl_ZUi)
 
+---------------------------------------
 ### Module: Information extraction and question answering
 
 [Information extraction and NER 9_1-10-5](https://www.youtube.com/watch?v=5SUzf6252_0&list=PLaZQkZp6WhWyszpcteV4LFgJ8lQJ5WIxK) 
 
+---------------------------------------
 ### Module: Vector semantics
 
 [Vector semantics 13_8-13_10](https://www.youtube.com/watch?v=5SUzf6252_0&list=PLaZQkZp6WhWyszpcteV4LFgJ8lQJ5WIxK)
 
+---------------------------------------
+---------------------------------------
 Assessment and exam
 --------------
 
