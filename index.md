@@ -84,7 +84,7 @@ Course details
 Lecturer: Rebekah Baglini
 Instructor: Arnault V-Q 
 
-On programming 
+Learning to program 
 ---------------
 
 
@@ -93,13 +93,13 @@ The NLP class will be a combination of theory and practice, including lots of ha
 ### Basic elements of Python 
 
 In order to complete the classroom group work and coding assignments, it will help to have a basic understanding of the following: 
-- variables and variable assignment
-- strings, numbers (intergers and floats), basic arithmetic operations
-- lists, sets, tuples, dictionaries 
-- simple input and output
-- conditional (if) statements
-- while and for loops 
-- functions and classes 
+* variables and variable assignment
+* strings, numbers (intergers and floats), basic arithmetic operations
+* lists, sets, tuples, dictionaries 
+* simple input and output
+* conditional (if) statements
+* while and for loops 
+* functions and classes 
 
 By "basic understanding" I mean that you have a grasp of what these different elements do and how they differ from one another. (See also **What does is mean to learn programming?** below.) 
 
@@ -120,9 +120,9 @@ The function should search the string for occurences of the letter and return an
 
 Note: Your function should be case-insensitive, i.e. it shouldn't care if the letter is "H" or "h"
 
-**Task 3: Function *isEven***
-Write a function which evaluates if a given integer number (given as a parameter for the function) is an even number. The function should return a Boolean value True if the number is even and False if the number is odd.
-Given a list (or array) of *n* integer numbers, write a program which uses the function *isEven* to determines the number of even items in the list.
+>**Task 3: Function *isEven***
+>Write a function which evaluates if a given integer number (given as a parameter for the function) is an even number. The >function should return a Boolean value True if the number is even and False if the number is odd.
+>Given a list (or array) of *n* integer numbers, write a program which uses the function *isEven* to determines the number >of even items in the list.
 
 **Task 4: Search in List**
 Given a list (or array) of *n* floating-point numbers, write a program which searches and outputs the largest number in the list.
