@@ -118,8 +118,10 @@ Write a function that adds two numbers x,y and returns the output x + y. Sample 
 Write a function that takes two arguments
 - *s* an arbitrary string.
 - *l* a letter (i.e. any valid single character).
+
 The function should search the string for occurences of the letter and return an integer indicating how many times the letter *l* occurs in the string *s*.
-- Note: Your function should be case-insensitive, i.e. it shouldn't care if the letter is "H" or "h"
+
+Note: Your function should be case-insensitive, i.e. it shouldn't care if the letter is "H" or "h"
 
 **Task 3: Function *isEven***
 Write a function which evaluates if a given integer number (given as a parameter for the function) is an even number. The function should return a Boolean value True if the number is even and False if the number is odd.
