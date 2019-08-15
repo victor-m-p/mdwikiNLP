@@ -16,7 +16,7 @@ This course builds on students’ background knowledge in statistics and statist
    
 See the [course catalog](https://kursuskatalog.au.dk/en/course/94415/Natural-language-processing) for more information. 
 
----------------------------------------
+
 
 Schedule 
 ---------------------
@@ -40,7 +40,7 @@ Schedule
 | 50   | 11/12 | NLU and AI                      |                                     |                    |                                  | J+M15          |
 
 
----------------------------------------
+
 
 Readings and resources 
 ---------------------
@@ -66,7 +66,7 @@ Readings and resources
 **3Blue1Brown - YouTube**
 
 
----------------------------------------
+
 Learning to program 
 ---------------
 
@@ -161,11 +161,9 @@ Still stuck?
 Note! *Email your instructors* is not listed as an option above. This is not because we don't care. But we simply do not have enough paid hours to provide help over email (which, of course, would really just outsource the Googling to us)! Do your best, get as far as you can, work with your classmates, and seek help in the Thursday classroom sessions. 
 
 
----------------------------------------
 Learning Modules 
 ---------------------
 
----------------------------------------
 
 ### Module: Introduction/Why NLP? 
 
@@ -222,7 +220,7 @@ Learning Modules
 
 [Vector semantics 13_8-13_10](https://www.youtube.com/watch?v=5SUzf6252_0&list=PLaZQkZp6WhWyszpcteV4LFgJ8lQJ5WIxK)
 
----------------------------------------
+
 Assessment and exam
 --------------
 
