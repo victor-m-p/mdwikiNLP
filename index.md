@@ -189,6 +189,10 @@ Learning Modules
 ---------------------------------------
 ### Module: Counting, classifying, and language modeling 
 
+People have a natural ability to draw associations from texts. For example, when you read a newspaper op-ed, you can probably tell quickly whether it was written by a liberal or conservative.  When you skim reviews of a restaurant online, you're able to detect whether a given review is overall positive or negative. When you read an internet comments section or twitter, you can infer the poster's sentiment (angry, pleased, etc) towards the topic at hand. 
+
+In this module, we look at applications of classification (a major topic within machine learning) to make intelligent categorical predictions about texts. 
+
 [Language modeling 3_1-3_8](https://www.youtube.com/watch?v=hM49MPmakNI&list=PLaZQkZp6WhWwJllbfwOD9cbIHXmdkOICY)
 
 ---------------------------------------
@@ -202,9 +206,15 @@ Learning Modules
 ---------------------------------------
 ### Module: Sentiment analysis
 
+A widespread and very influential type of document classification is sentiment analysis (aka opinion mining or emotional AI). This refers to the use of natural language processing to systematically identify, extract, quantify, and study affective states and subjective information. Sentiment analysis is widely applied to voice of the customer materials such as reviews and survey responses, online and social media, and healthcare materials for applications that range from marketing to customer service to clinical medicine. A basic task in sentiment analysis is classifying the polarity of a given text at the document, sentence, or feature/aspect level—whether the expressed opinion in a document, a sentence or an entity feature/aspect is positive, negative, or neutral. 
+
 [Sentiment analysis 6_1-6_5](https://www.youtube.com/watch?v=Y1j_J53k7fo&list=PLaZQkZp6WhWxU3kA6wV0nb5dY1SXDEKWH)
 ---------------------------------------
 ### Module: Information retrieval 
+
+In 2010, Eric Schmidt (then CEO of Google) made the following claim: Every two days we create as much information as we did from the dawn of civilization up until  2003.  The rate of data generation has only increased since then. 
+
+Although only a subset of data is in the form of human-readable natural language texts, this also represents a staggering amount of data.  And it is useful only insofar as it can be effectively searched. In this module we explore search and text mining methods for both structured and unstructured textual data. 
 
 [Information retrieval 7_1-7_6](https://www.youtube.com/watch?v=kNkCfaH2rxc&list=PLaZQkZp6WhWwoDuD6pQCmgVyDbUWl_ZUi)
 
@@ -218,8 +228,21 @@ Learning Modules
 ---------------------------------------
 ### Module: Vector semantics
 
+Linguist J.R. Firth famously said: "You shall know a word by the company it keeps." In other words, words that occur in similar contexts tend to have similar meanings. This link between similarity in how words are distributed and similarity in what they mean is called the distributional hypothesis. In this chapter we introduce a model known as vector semantics, which instanstiates this linguistic hypothesis by learning representations of the meaning of words directly from their distributions in texts. These representations are used in every natural language processing application that makes use of meaning.
+
+We will also explore historical vector models. We know that word meanings are not stable, and often change (sometimes dramatically) over the years. Examples include gay ('happy' > 'homosexual') and awesome ('terrible' > 'great'). Given the distributional hypothesis, we would expect that the lexical associations of these words within vector space models would change to reflect this. This week, we look at tools for exploring lexical change and historical lexical semantics using vector models. 
+
 [Vector semantics 13_8-13_10](https://www.youtube.com/watch?v=5SUzf6252_0&list=PLaZQkZp6WhWyszpcteV4LFgJ8lQJ5WIxK)
 
+---------------------------------------
+### Module: Dialogue systems 
+
+Conversation is second nature to us. But if you're ever had a conversation with a conversation agent like Siri, Alexa, Cortana, or an automated phone operator, you have probably gathered that interactive communication is not a trivial task for computers to perform.  In this module, we explore the cognitive and linguistic tools that underly successful dialog and methods for approximating these abilities in machines. 
+
+---------------------------------------
+### Module: NLP in cognitive science and linguistics research
+
+This week, we'll explore computational tools for probing some foundational questions from theoretical linguists and cognitive semiotics.
 
 Assessment and exam
 --------------
