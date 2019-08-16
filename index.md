@@ -203,6 +203,10 @@ In this module, we look at applications of classification (a major topic within 
 ---------------------------------------
 ### Module: Alignment 
 
+Guest lecturer: Riccardo Fusaroli 
+
+Linguistic alignment (LA) is the tendency during a conversation to re-use each other’s linguistic expressions, including lexical, conceptual, or syntactic structures. LA is often argued to be a crucial driver in reciprocal understanding and interpersonal rapport, though its precise dynamics and effects are still controversial. One barrier to more systematic investigation of these effects lies in the diversity in the methods employed to analyze LA, which makes it difficult to integrate and compare results of individual studies. To overcome this issue, we have developed ALIGN (Analyzing Linguistic Interactions with Generalizable techNiques), an open-source Python package to measure LA in conversation (https://pypi.python.org/pypi/align) along with in-depth open-source tutorials hosted on ALIGN’s GitHub repository (https://github.com/nickduran/align-linguistic-alignment). Here, we first describe the challenges in the study of LA and outline how ALIGN can address them. We then demonstrate how our analytical protocol can be applied to theory-driven questions using a complex corpus of dialogue (the Devil’s Advocate corpus; Duran & Fusaroli, 2017). We close by identifying further challenges and point to future developments of the field.
+
 ---------------------------------------
 ### Module: Sentiment analysis
 
