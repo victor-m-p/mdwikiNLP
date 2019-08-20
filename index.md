@@ -35,7 +35,7 @@ Schedule
 | 45   | 6/11  | Vector semantics                | Word2Vec, SVMs                      |                    |                                  | J+M6           |
 | 46   | 13/11 | Neural networks                 | TensorFlow                          |                    |                                  | J+M23          |
 | 47   | 20/11 | Dialogue/Question answering     | DialogFlow                          |                    |                                  | J+M24          |
-| 48   | 27/11 | NLP in research                 |                                     |                    |                                  |                |
+| 48   | 27/11 | NLP in research at AU                 |                                     |                    |                                  |                |
 | 49   | 4/12  | NLP in industry                 |                                     |                    |                                  |                |
 | 50   | 11/12 | NLU and AI                      |                                     |                    |                                  | J+M15          |
 
