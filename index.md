@@ -22,25 +22,22 @@ Schedule
 ---------------------
 
 
-| Week | Date  | Lecture (Weds)                  | Class (Thurs)                       | HW Due (Weds)      | [Self-paced](https://github.com/leriomaggio/python-in-a-notebook)                       | [Readings](https://web.stanford.edu/~jurafsky/slp3/)       |
-|------|-------|---------------------------------|-------------------------------------|--------------------|----------------------------------|----------------|
-| 37   | 11/9  | Introduction/Text processing    | Regex, normalization | Computer set-up    | 00-03 (basic objects)            | J+M2           |
-| 38   | 18/9  | Language modeling               | Ngrams                              |                    | 04-05 (if, while, for loops)     | J+M3           |
-| 39   | 25/9  | Text classification             | Naive Bayes                         |                    | 06-07 (dictionaries, functions)  | J+M4           |
-| 40   | 2/10  | Linguistic alignment            |                                     |                    | 08 (classes, OOP)                | TBA (Riccardo) |
-| 41   | 9/10  | Sentiment analysis              | Logistic regressions, lexicons      |                    | CYOA (Choose your own adventure) | J+M5           |
-| 42   | 16/10 | NO LECTURE                      | NO CLASS                            |                    | CYOA                             |                |
-| 43   | 23/10 | TBD [Neuroimaging project week] |                                     | Project pitch week |                                  |                |
-| 44   | 30/10 | Topic modeling                  | LDA                                 |                    |                                  | TBA (Luca)     |
-| 45   | 6/11  | Vector semantics                | Word2Vec, SVMs                      |                    |                                  | J+M6           |
-| 46   | 13/11 | Neural networks                 | TensorFlow                          |                    |                                  | J+M23          |
-| 47   | 20/11 | Dialogue/Question answering     | DialogFlow                          |                    |                                  | J+M24          |
-| 48   | 27/11 | NLP in research at AU                 |                                     |                    |                                  |                |
-| 49   | 4/12  | NLP in industry                 |                                     |                    |                                  |                |
-| 50   | 11/12 | NLU and AI                      |                                     |                    |                                  | J+M15          |
-
-
-
+| Week 	| Date  	| Lecture (Weds)                  	| Class (Thurs)                       	| HW Due (Weds)      	| [Readings](https://web.stanford.edu/~jurafsky/slp3/)       	|
+|------	|-------	|---------------------------------	|-------------------------------------	|--------------------	|----------------	|
+| 37   	| 11/9  	| Introduction/Text processing    	| Regex, edit distance, normalization 	| Computer set-up    	| J+M2           	|
+| 38   	| 18/9  	| Language modeling               	| Ngrams                              	|                    	| J+M3           	|
+| 39   	| 25/9  	| Text classification             	| Naive Bayes                         	|                    	| J+M4           	|
+| 40   	| 2/10  	| Linguistic alignment            	|                                     	|                    	| TBA (Riccardo) 	|
+| 41   	| 9/10  	| Sentiment analysis              	| Logistic regressions, lexicons      	|   Project pitch week   | J+M5           	|
+| 42   	| 16/10 	| NO LECTURE                      	| NO CLASS                            	|                    	|                	|
+| 43   	| 23/10 	| TBD [Neuroimaging project week] 	|                                     	|                    	|                	|
+| 44   	| 30/10 	| Topic modeling                  	| LDA                                 	|                    	| TBA (Luca)     	|
+| 45   	| 6/11  	| Vector semantics                	| Word2Vec, SVMs                      	|                    	| J+M6           	|
+| 46   	| 13/11 	| Neural networks                 	| TensorFlow                          	|                    	| J+M23          	|
+| 47   	| 20/11 	| Dialogue/Question answering     	| DialogFlow                          	|                    	| J+M24          	|
+| 48   	| 27/11 	| NLP in research                 	|                                     	|                    	|   J+M15             	|
+| 49   	| 4/12  	| NLP in industry                 	|                                     	|                    	|                	|
+| 50   	| 11/12 	| Poster session                      	|                                     	|                    	|          	|
 
 Readings and resources 
 ---------------------
