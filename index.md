@@ -24,17 +24,17 @@ Schedule
 
 | Week 	| Date  	| Lecture (Weds)                  	| Class (Thurs)                       	| HW Due (Weds)      	| Readings       	|
 |------	|-------	|---------------------------------	|-------------------------------------	|--------------------	|----------------	|
-| 37   	| 11/9  	| Introduction                    	| Computer set-up                     	|                    	| J+M1           	|
-| 38   	| 18/9  	| Text processing                 	| Regex, edit distance, normalization 	|                    	| J+M2           	|
-| 39   	| 25/9  	| Language modeling               	| Ngrams                              	|                    	| J+M3           	|
-| 40   	| 2/10  	| Linguistic alignment            	|                                     	|                    	| TBA (Riccardo) 	|
-| 41   	| 9/10  	| Text classification             	| Naive Bayes                         	|                    	| J+M4           	|
+| 37   	| 11/9  	| Introduction                    	| NLTK ch00, ch01 3-4.4                |                    	| [Homework](class1.md]
+| 38   	| 18/9  	| Text processing                 	| NLTK ch02 1.1-4.1, ch03 3.4-3.10 	   |                    	| J+M2 (pp1-25)           	|
+| 39   	| 25/9  	| Language modeling               	| NLTK ch05 1, 4-5.7                 	|                    	| J+M3 (pp1-16, + 3.6)           	|
+| 40   	| 2/10  	| Linguistic alignment            	| TBA                                 	|                    	| TBA (Riccardo) 	|
+| 41   	| 9/10  	| Text classification & Sentiment   | NLTK ch06 1-1.3, TBA                 |                    	| J+M4           	|
 | 42   	| 16/10 	| NO LECTURE                      	| NO CLASS                            	|                    	|                	|
-| 43   	| 23/10 	| TBD [Neuroimaging project week] 	|                                     	| Project pitch week 	|                	|
-| 44   	| 30/10 	| Sentiment analysis              	| Logistic regressions, lexicons      	|                    	| J+M5           	|
-| 45   	| 6/11  	| Topic modeling                  	| LDA                                 	|                    	| TBA (Luca)     	|
-| 46   	| 13/11 	| Vector semantics                	| Word2Vec, SVMs                      	|                    	| J+M6           	|
-| 47   	| 20/11 	| Dialogue/Question answering     	| DialogFlow                          	|                    	| J+M24          	|
+| 43   	| 23/10 	| TBD [Neuroimaging project week] 	|                                     	| Project pitch       	|                	|
+| 44   	| 30/10 	| Topic modeling                 	| TBA                               	|                    	| TBA (Luca)      	|
+| 45   	| 6/11  	| Information extraction            | NLTK ch07                            |                    	| TBA      	|
+| 46   	| 13/11 	| Vector semantics                	| TensorFlow Word2Vec tutorial         |                    	| J+M6           	|
+| 47   	| 20/11 	| Dialog systems                    | DialogFlow                          	|                    	| J+M24          	|
 | 48   	| 27/11 	| NLP in research                 	|                                     	|                    	|                	|
 | 49   	| 4/12  	| NLP in industry                 	|                                     	|                    	|                	|
 | 50   	| 11/12 	| Poster session 1                	| Poster session 2                    	|                    	|                	|
