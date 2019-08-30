@@ -22,22 +22,22 @@ Schedule
 ---------------------
 
 
-| Week 	| Date  	| Lecture (Weds)                  	| Class (Thurs)                       	| 
-|------	|-------	|---------------------------------	|-------------------------------------	
-| 37   	| 11/9  	| Introduction                    	| NLTK ch00, ch01 3-4.4                | 
-| 38   	| 18/9  	| Text processing                 	| NLTK ch02 1.1-4.1, ch03 3.4-3.10 	   |       
-| 39   	| 25/9  	| Language modeling               	| NLTK ch05 1, 4-5.7                 	|   
-| 40   	| 2/10  	| Linguistic alignment (Riccardo)           	| TBA                       |  
-| 41   	| 9/10  	| Text classification & Sentiment   | NLTK ch06 1-1.3, TBA                 |                    	           	|
-| 42   	| 16/10 	| NO LECTURE                      	| NO CLASS                            	|                                	|
-| 43   	| 23/10 	| TBD [Neuroimaging project week] 	|                                     	|
-| 44   	| 30/10 	| Topic modeling (Luca)             | TBA                            | 
-| 45   	| 6/11  	| Information extraction            | NLTK ch07                            |
-| 46   	| 13/11 	| Vector semantics                	| TensorFlow Word2Vec tutorial         |
-| 47   	| 20/11 	| Dialog systems                    | DialogFlow                          	| 
-| 48   	| 27/11 	| NLP in research                 	|                                     	|
-| 49   	| 4/12  	| NLP in industry                 	|                                     		|
-| 50   	| 11/12 	| Poster session 1                	| Poster session 2                    |
+| Week 	| Date  	| Lecture (Weds)                  	| Class (Thurs)                       	| Videos/readings/HWs |
+|------	|-------	|---------------------------------	|-------------------------------------	 | -----------------------|
+| 37   	| 11/9  	| Introduction                    	| NLTK ch00, ch01 3-4.4                | To be posted in Week 36 |
+| 38   	| 18/9  	| Text processing                 	| NLTK ch02 1.1-4.1, ch03 3.4-3.10 	   | Please check back then                |
+| 39   	| 25/9  	| Language modeling               	| NLTK ch05 1, 4-5.7                 	|        :)   |
+| 40   	| 2/10  	| Linguistic alignment (Riccardo)           	| TBA                       |  |
+| 41   	| 9/10  	| Text classification & Sentiment   | NLTK ch06 1-1.3, TBA                 | |            
+| 42   	| 16/10 	| NO LECTURE                      	| NO CLASS                            	|             |
+| 43   	| 23/10 	| TBD [Neuroimaging project week] 	|                                     	| |
+| 44   	| 30/10 	| Topic modeling (Luca)             | TBA                            | |
+| 45   	| 6/11  	| Information extraction            | NLTK ch07                            | |
+| 46   	| 13/11 	| Vector semantics                	| TensorFlow Word2Vec tutorial         | |
+| 47   	| 20/11 	| Dialog systems                    | DialogFlow                          	|  |
+| 48   	| 27/11 	| NLP in research                 	|                                     	| | 
+| 49   	| 4/12  	| NLP in industry                 	|                                     		| |
+| 50   	| 11/12 	| Poster session 1                	| Poster session 2                    | |
 
 Readings and resources 
 ---------------------
