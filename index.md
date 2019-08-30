@@ -55,6 +55,17 @@ Readings and resources
 [The hands-on NLTK tutorial for NLP in Python](https://github.com/hb20007/hands-on-nltk-tutorial) 
 
 
+Computer set-up/requirements
+-------------------
+
+We will be using **Python 3.7** for all course activities and assignments. 
+
+Warning: While you are free to use any distribution for Python, we strongly recommend Anaconda. 
+
+[You can install Anaconda here](https://www.anaconda.com/distribution/).  
+
+After installing Anaconda, follow [these instructions to run Juputer Notebook (.ipynb files)](https://jupyter.org/install) 
+
 
 Learning to program 
 ---------------
@@ -129,17 +140,6 @@ If you're starting from 0, that's okay! Just spend a bit of time on self-paced s
 
 [leriomaggio's Python in a Notebook](https://github.com/leriomaggio/python-in-a-notebook)
 
-
-Computer set-up/requirements
--------------------
-
-We will be using **Python 3.7** for all course activities and assignments. 
-
-Warning: While you are free to use any distribution for Python, we strongly recommend Anaconda. 
-
-[You can install Anaconda here](https://www.anaconda.com/distribution/).  
-
-After installing Anaconda, follow [these instructions to run Juputer Notebook (.ipynb files)](https://jupyter.org/install) 
 
 
 
