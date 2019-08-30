@@ -124,10 +124,22 @@ The function should return the keys of the input dictionary, in a list.
 ---------------------------------------
 
 ### Ok. I need to learn some things. Where should I start? 
+
+
 If you're starting from 0, that's okay! Just spend a bit of time on self-paced study. There are a dizzying array of Python study options online, including many you can do from your web browser (Coursera, LearnPython.org, DataCamp). If you go ahead and set up your computer for the class, I highly recommend following this course: 
 
 [Python in a notebook](https://github.com/leriomaggio/python-in-a-notebook) 
-This course will also familiarizing you with Jupyter notebooks, which we will be using a lot this semester. 
+
+
+Computer set-up/requirements
+-------------------
+
+We will be using **Python 3.7** for all course activities and assignments, and I highly recommend using the Anaconda distribution. 
+
+[You can install Anaconda here.](https://www.anaconda.com/distribution/).  
+
+After installing Anaconda, follow [these instructions to run Juputer Notebook (.ipynb files)](https://jupyter.org/install) 
+
 
 Troubleshooting and email policy
 ---------------------
