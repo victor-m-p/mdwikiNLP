@@ -43,7 +43,6 @@ Readings and resources
 ---------------------
 
 **Self-paced Python preparation**
-
 [leriomaggio's Python in a Notebook](https://github.com/leriomaggio/python-in-a-notebook)
 
 **Textbook chapters for Weds lectures**
@@ -134,11 +133,14 @@ If you're starting from 0, that's okay! Just spend a bit of time on self-paced s
 Computer set-up/requirements
 -------------------
 
-We will be using **Python 3.7** for all course activities and assignments, and I highly recommend using the Anaconda distribution. 
+We will be using **Python 3.7** for all course activities and assignments. 
 
-[You can install Anaconda here.](https://www.anaconda.com/distribution/).  
+Warning: While you are free to use any distribution for Python, we strongly recommend Anaconda. 
+
+[You can install Anaconda here](https://www.anaconda.com/distribution/).  
 
 After installing Anaconda, follow [these instructions to run Juputer Notebook (.ipynb files)](https://jupyter.org/install) 
+
 
 
 Troubleshooting and email policy
