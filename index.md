@@ -44,7 +44,7 @@ Readings and resources
 
 **Self-paced Python preparation**
 
-[leriomaggio's Collection of Jupyter Notebooks about Python programming](https://github.com/leriomaggio/python-in-a-notebook)
+[leriomaggio's Python in a Notebook](https://github.com/leriomaggio/python-in-a-notebook)
 
 **Textbook chapters for Weds lectures**
 [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) (3rd ed. draft) by Dan Jurafsky and James H. Martin. 
@@ -128,7 +128,7 @@ The function should return the keys of the input dictionary, in a list.
 
 If you're starting from 0, that's okay! Just spend a bit of time on self-paced study. There are a dizzying array of Python study options online, including many you can do from your web browser (Coursera, LearnPython.org, DataCamp). If you go ahead and set up your computer for the class, I highly recommend following this course: 
 
-[Python in a notebook](https://github.com/leriomaggio/python-in-a-notebook) 
+[leriomaggio's Python in a Notebook](https://github.com/leriomaggio/python-in-a-notebook)
 
 
 Computer set-up/requirements
@@ -169,7 +169,7 @@ Assessment and exam
 
 ### Assignments 
 
-You will have a number of group programming assignments to complete in weeks .... 
+You will have a number of group programming assignments to complete, including some detailing progress on your group project (starting in Week 43). 
 
 Use Github classroom to upload your assignments. You will receive an email invitation to register in week 36. 
 
