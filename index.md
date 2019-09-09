@@ -24,17 +24,17 @@ Schedule
 
 | Week 	| Date  	| Lecture (Weds)                  	| Class (Thurs)                       	| HW Due (Weds)      	| To-do       	|
 |------	|-------	|---------------------------------	|-------------------------------------	|--------------------	|----------------	|
-| 37   	| 11/9  	| Introduction                    	| NLTK ch00, ch01 3-4.4                |                    	| [Homework1](class1.md)
-| 38   	| 18/9  	| Text processing                 	| NLTK ch02 1.1-4.1, ch03 3.4-3.10 	   |                    	| [Homework2](class2.md)          	|
-| 39   	| 25/9  	| Language modeling               	| NLTK ch05 1, 4-5.7                 	|                    	| [Homework3](class3.md)         	|
-| 40   	| 2/10  	| Linguistic alignment (Riccardo)           	| TBA                       |                    	| [Homework4](class4.md)  	|
-| 41   	| 9/10  	| Text classification & Sentiment   | NLTK ch06 1-1.3, TBA                 |                    	| [Homework5](class5.md)            	|
+| 37   	| 11/9  	| Introduction                    	| NLTK ch00, ch01 3-4.4                |                    	| [Read/Watch](class1.md)
+| 38   	| 18/9  	| Text processing                 	| NLTK ch02 1.1-4.1, ch03 3.4-3.10 	   |                    	| [Read/Watch](class2.md)          	|
+| 39   	| 25/9  	| Language modeling               	| NLTK ch05 1, 4-5.7                 	|                    	| [Read/Watch](class3.md)         	|
+| 40   	| 2/10  	| Linguistic alignment (Riccardo)           	| TBA                       |                    	| [Read/Watch](class4.md)  	|
+| 41   	| 9/10  	| Text classification & Sentiment   | NLTK ch06 1-1.3, TBA                 |                    	| [Read/Watch](class5.md)            	|
 | 42   	| 16/10 	| NO LECTURE                      	| NO CLASS                            	|                    	|                	|
 | 43   	| 23/10 	| TBD [Neuroimaging project week] 	|                                     	| Project pitch       	|                	|
-| 44   	| 30/10 	| Topic modeling (Luca)             | TBA                            |                    	| [Homework6](class6.md)      	|
-| 45   	| 6/11  	| Information extraction            | NLTK ch07                            |                    	| [Homework7](class7.md)      	|
-| 46   	| 13/11 	| Vector semantics                	| TensorFlow Word2Vec tutorial         |                    	| [Homework8](class8.md)             	|
-| 47   	| 20/11 	| Dialog systems                    | DialogFlow                          	|                    	| [Homework9](class9.md)            	|
+| 44   	| 30/10 	| Topic modeling (Luca)             | TBA                            |                    	| [Read/Watch](class6.md)      	|
+| 45   	| 6/11  	| Information extraction            | NLTK ch07                            |                    	| [Read/Watch](class7.md)      	|
+| 46   	| 13/11 	| Vector semantics                	| TensorFlow Word2Vec tutorial         |                    	| [Read/Watch](class8.md)             	|
+| 47   	| 20/11 	| Dialog systems                    | DialogFlow                          	|                    	| [Read/Watch](class9.md)            	|
 | 48   	| 27/11 	| NLP in research                 	|                                     	|                    	|                	|
 | 49   	| 4/12  	| NLP in industry                 	|                                     	|                    	|                	|
 | 50   	| 11/12 	| Poster session 1                	| Poster session 2                    	|                    	|                	|
