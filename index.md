@@ -22,9 +22,9 @@ Schedule
 ---------------------
 
 
-| Week 	| Date  	| Lecture (Weds)                  	| Class (Thurs)                       	| HW Due (Weds)      	| To-do       	|
+| Week 	| Date  	| Lecture (Weds)                  	| Class (Thurs)                       	| HW Due      	| To-do       	|
 |------	|-------	|---------------------------------	|-------------------------------------	|--------------------	|----------------	|
-| 37   	| 11/9  	| Introduction                    	| NLTK ch00, ch01 3-4.4                |                    	| [Read/Watch](class1.md)
+| 37   	| 11/9  	| Introduction                    	| NLTK ch00, ch01 3-4.4                |  https://forms.gle/3pYG6Ep4oAst96ri9               	| [Read/Watch](class1.md)
 | 38   	| 18/9  	| Text processing                 	| NLTK ch02 1.1-4.1, ch03 3.4-3.10 	   |                    	| [Read/Watch](class2.md)          	|
 | 39   	| 25/9  	| Language modeling               	| NLTK ch05 1, 4-5.7                 	|                    	| [Read/Watch](class3.md)         	|
 | 40   	| 2/10  	| Linguistic alignment (Riccardo)           	| TBA                       |                    	| [Read/Watch](class4.md)  	|
@@ -158,93 +158,6 @@ Still stuck?
 Note! *Email your instructors* is not listed as an option above. This is not because we don't care. But we simply do not have enough paid hours to provide help over email (which, of course, would really just outsource the Googling to us)! Do your best, get as far as you can, work with your classmates, and seek help in the Thursday classroom sessions. 
 
 
-Learning Modules 
----------------------
-
-
-### Module: Introduction
-
----------------------------------------
-
-### Module: Text processing and regular expressions 
-
-**Keywords**
-
-**Questions**
-* What do we mean by "natural language"? What would be an example of a non-natural language? 
-* What kinds of features of natural languages make automated processing difficult?
-
-**Videos** 
-[Regex: Videos 1_1 - 1_4](https://www.youtube.com/playlist?list=PLaZQkZp6WhWy4_bClrW9EGQKnUUD9yp8V)
-
----------------------------------------
-
-### Module: Edit distance 
-
-[Minimum edit distance 2_1-2_5](https://www.youtube.com/playlist?list=PLaZQkZp6WhWy4_bClrW9EGQKnUUD9yp8V)
-
----------------------------------------
-### Module: Counting, classifying, and language modeling 
-
-People have a natural ability to draw associations from texts. For example, when you read a newspaper op-ed, you can probably tell quickly whether it was written by a liberal or conservative.  When you skim reviews of a restaurant online, you're able to detect whether a given review is overall positive or negative. When you read an internet comments section or twitter, you can infer the poster's sentiment (angry, pleased, etc) towards the topic at hand. 
-
-In this module, we look at applications of classification (a major topic within machine learning) to make intelligent categorical predictions about texts. 
-
-[Language modeling 3_1-3_8](https://www.youtube.com/watch?v=hM49MPmakNI&list=PLaZQkZp6WhWwJllbfwOD9cbIHXmdkOICY)
-
----------------------------------------
-### Module: Naive Bayes 
-
-[Naive Bayes 5_1-5_9](https://www.youtube.com/watch?v=Y1j_J53k7fo&list=PLaZQkZp6WhWxU3kA6wV0nb5dY1SXDEKWH)
-
----------------------------------------
-### Module: Alignment 
-
-Guest lecturer: Riccardo Fusaroli 
-
-Linguistic alignment (LA) is the tendency during a conversation to re-use each other’s linguistic expressions, including lexical, conceptual, or syntactic structures. LA is often argued to be a crucial driver in reciprocal understanding and interpersonal rapport, though its precise dynamics and effects are still controversial. One barrier to more systematic investigation of these effects lies in the diversity in the methods employed to analyze LA, which makes it difficult to integrate and compare results of individual studies. To overcome this issue, we have developed ALIGN (Analyzing Linguistic Interactions with Generalizable techNiques), an open-source Python package to measure LA in conversation (https://pypi.python.org/pypi/align) along with in-depth open-source tutorials hosted on ALIGN’s GitHub repository (https://github.com/nickduran/align-linguistic-alignment). Here, we first describe the challenges in the study of LA and outline how ALIGN can address them. We then demonstrate how our analytical protocol can be applied to theory-driven questions using a complex corpus of dialogue (the Devil’s Advocate corpus; Duran & Fusaroli, 2017). We close by identifying further challenges and point to future developments of the field.
-
----------------------------------------
-### Module: Sentiment analysis
-
-A widespread and very influential type of document classification is sentiment analysis (aka opinion mining or emotional AI). This refers to the use of natural language processing to systematically identify, extract, quantify, and study affective states and subjective information. Sentiment analysis is widely applied to voice of the customer materials such as reviews and survey responses, online and social media, and healthcare materials for applications that range from marketing to customer service to clinical medicine. A basic task in sentiment analysis is classifying the polarity of a given text at the document, sentence, or feature/aspect level—whether the expressed opinion in a document, a sentence or an entity feature/aspect is positive, negative, or neutral. 
-
-[Sentiment analysis 6_1-6_5](https://www.youtube.com/watch?v=Y1j_J53k7fo&list=PLaZQkZp6WhWxU3kA6wV0nb5dY1SXDEKWH)
-
----------------------------------------
-### Module: Information retrieval 
-
-In 2010, Eric Schmidt (then CEO of Google) made the following claim: Every two days we create as much information as we did from the dawn of civilization up until  2003.  The rate of data generation has only increased since then. 
-
-Although only a subset of data is in the form of human-readable natural language texts, this also represents a staggering amount of data.  And it is useful only insofar as it can be effectively searched. In this module we explore search and text mining methods for both structured and unstructured textual data. 
-
-[Information retrieval 7_1-7_6](https://www.youtube.com/watch?v=kNkCfaH2rxc&list=PLaZQkZp6WhWwoDuD6pQCmgVyDbUWl_ZUi)
-
-[Information retrieval 7_1-7_6](https://www.youtube.com/watch?v=kNkCfaH2rxc&list=PLaZQkZp6WhWwoDuD6pQCmgVyDbUWl_ZUi)
-
----------------------------------------
-### Module: Information extraction and question answering
-
-[Information extraction and NER 9_1-10-5](https://www.youtube.com/watch?v=5SUzf6252_0&list=PLaZQkZp6WhWyszpcteV4LFgJ8lQJ5WIxK) 
-
----------------------------------------
-### Module: Vector semantics
-
-Linguist J.R. Firth famously said: "You shall know a word by the company it keeps." In other words, words that occur in similar contexts tend to have similar meanings. This link between similarity in how words are distributed and similarity in what they mean is called the distributional hypothesis. In this chapter we introduce a model known as vector semantics, which instanstiates this linguistic hypothesis by learning representations of the meaning of words directly from their distributions in texts. These representations are used in every natural language processing application that makes use of meaning.
-
-We will also explore historical vector models. We know that word meanings are not stable, and often change (sometimes dramatically) over the years. Examples include gay ('happy' > 'homosexual') and awesome ('terrible' > 'great'). Given the distributional hypothesis, we would expect that the lexical associations of these words within vector space models would change to reflect this. This week, we look at tools for exploring lexical change and historical lexical semantics using vector models. 
-
-[Vector semantics 13_8-13_10](https://www.youtube.com/watch?v=5SUzf6252_0&list=PLaZQkZp6WhWyszpcteV4LFgJ8lQJ5WIxK)
-
----------------------------------------
-### Module: Dialogue systems 
-
-Conversation is second nature to us. But if you're ever had a conversation with a conversation agent like Siri, Alexa, Cortana, or an automated phone operator, you have probably gathered that interactive communication is not a trivial task for computers to perform.  In this module, we explore the cognitive and linguistic tools that underly successful dialog and methods for approximating these abilities in machines. 
-
----------------------------------------
-### Module: NLP in cognitive science and linguistics research
-
-This week, we'll explore computational tools for probing some foundational questions from theoretical linguists and cognitive semiotics.
 
 Assessment and exam
 --------------
