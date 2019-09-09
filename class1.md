@@ -1,10 +1,14 @@
 Class 1: Introduction
 ============
 
-Note: Assigned videos/readings should be done *before* Wednesday lecture. NLTK/Python exercises should be worked through before the Thursday classroom sessions. 
+Note: Assigned videos/readings should be done *before* Wednesday lecture. 
 
 ### Reading 
+(Access on course Blackboard)
 
-[Jurafsky & Martin Chapter 1](https://www.dropbox.com/s/tdybktgk34c3n6n/Jurasfky1_2nd.pdf?dl=0)
+Jurafsky & Martin *Speech and Language Processing*, Chapter 1: 1-1.4 
 
+Manning & Schutze *Foundations of Statistical Natural Language Processing*, Chapter 1-1.1, 1.4 
+
+[Optional video on Zipf's Law](https://www.youtube.com/watch?v=fCn8zs912OE) 
 
