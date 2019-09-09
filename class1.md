@@ -12,3 +12,6 @@ Manning & Schutze *Foundations of Statistical Natural Language Processing*, Chap
 
 [Optional video on Zipf's Law](https://www.youtube.com/watch?v=fCn8zs912OE) 
 
+## Introductory survey - please do before Wednesday 11/9 
+
+https://forms.gle/3pYG6Ep4oAst96ri9 
