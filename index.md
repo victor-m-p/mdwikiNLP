@@ -7,7 +7,7 @@ Overview
 |           | When?         | Where? | Who?                      |
 |-----------|---------------|--------|---------------------------|
 | Lectures  | Weds 8-10   | 1441-012  | Rebekah Baglini           |
-| Classroom | Thurs 16-18 | 	1453-131  | Arnault-Quentin Vermillet |
+| Classroom | See Blackboard | See Blackboard  | Arnault-Quentin Vermillet |
 
 The course addresses how we can approach theoretical and applied topics in human cognition using computational linguistics and natural language processing tools. The course also addresses key ethical topics that arise from the analysis of freely available natural language data, and in the development of natural language processing software and technologies. 
 This course builds on students’ background knowledge in statistics and statistical programming, and introduces students to working with large data sets. The course builds towards the data science course. The course introduces students to ethical and philosophical topics, which will be extended on in the data science course. The course prepares students for careers involving analysis of text and other forms of natural language data, and for careers involving development of natural language software. 
