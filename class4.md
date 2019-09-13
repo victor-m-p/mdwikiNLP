@@ -5,10 +5,10 @@ Linguistic alignment (LA) is the tendency during a conversation to reuse each ot
 
 ## Readings 
 
-Dialog as interpersonal synergy[https://www.sciencedirect.com/science/article/pii/S0732118X13000342?via%3Dihub] (background reading on LA)
+[Dialog as interpersonal synergy](https://www.sciencedirect.com/science/article/pii/S0732118X13000342?via%3Dihub) (background reading on LA)
 
-Running Head: ALIGN: ANALYZING LINGUISTIC INTERACTIONSALIGN: Analyzing Linguistic Interactions with Generalizable techNiques — a Python Library[https://psyarxiv.com/a5yh9/] (Topic of lecture) 
+[ALIGN: Analyzing Linguistic Interactions with Generalizable techNiques](https://psyarxiv.com/a5yh9/) (Topic of lecture) 
 
 ## ALIGN on Github
 
-https://github.com/nickduran/align-linguistic-alignment 
+[https://github.com/nickduran/align-linguistic-alignment]
