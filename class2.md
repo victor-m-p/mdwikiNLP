@@ -30,3 +30,5 @@ results to check your code.
 
 2.7 Augment the minimum edit distance algorithm to output an alignment; you
 will need to store pointers and add a stage to compute the backtrace.
+
+
