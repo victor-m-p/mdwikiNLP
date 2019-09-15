@@ -30,6 +30,6 @@ results to check your code.
 2.7 Augment the minimum edit distance algorithm to output an alignment; you
 will need to store pointers and add a stage to compute the backtrace.
 
-Please send your answers via [this link](mailto:lunde@adobe.com?subject=AUNLP:%20Chapter%202%20Answers) by **Friday September 20 at 5pm.** 
+Please send your answers via [this link](mailto:rebekahbrita@gmail.com?subject=AUNLP:%20Chapter%202%20Answers) by **Friday September 20 at 5pm.** 
 
 Note: If you don't submit via the link, you will not trigger the auto-reply with the answers attached. If you submit after 5pm on Fri, you will receive the following week's answer set. 
