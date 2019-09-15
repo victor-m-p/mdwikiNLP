@@ -24,15 +24,15 @@ Schedule
 
 | Week 	| Date  	| Lecture (Weds)                  	| Class (Thurs)                       	| HW Due      	| To-do       	|
 |------	|-------	|---------------------------------	|-------------------------------------	|--------------------	|----------------	|
-| 37   	| 11/9  	| Introduction                    	| NLTK ch00, ch01 3-4.4                |  https://forms.gle/3pYG6Ep4oAst96ri9               	| [Read/Watch](class1.md)
-| 38   	| 18/9  	| Text processing                 	| NLTK ch02 1.1-4.1, ch03 3.4-3.10 	   |   [J+M Ch2 exercises](class2.md)                 	| [Read/Watch](class2.md)          	|
-| 39   	| 25/9  	| Language modeling               	| NLTK ch05 1, 4-5.7                 	|    SpamLord                	| [Read/Watch](class3.md)         	|
+| 37   	| 11/9  	| Introduction                    	| [NLTK ch00](https://www.nltk.org/book/ch00.html), [ch01 3-4.4](https://www.nltk.org/book/ch01.html)                |  https://forms.gle/3pYG6Ep4oAst96ri9               	| [Read/Watch](class1.md)
+| 38   	| 18/9  	| Text processing                 	| [NLTK ch02 1.1-4.1](https://www.nltk.org/book/ch02.html), [ch03 3.4-3.10](https://www.nltk.org/book/ch03.html) 	   |   [J+M Ch2 exercises](class2.md)                 	| [Read/Watch](class2.md)          	|
+| 39   	| 25/9  	| Language modeling               	| [NLTK ch05 1, 4-5.7](https://www.nltk.org/book/ch05.html)                 	|    SpamLord                	| [Read/Watch](class3.md)         	|
 | 40   	| 2/10  	| Linguistic alignment (Riccardo)           	| [ALIGN](https://github.com/nickduran/align-linguistic-alignment)                       |     Text generator               	| [Read/Watch](class4.md)  	|
-| 41   	| 9/10  	| Text classification & Sentiment   | NLTK ch06 1-1.3, TBA                 | IMDB Sentiment                  	| [Read/Watch](class5.md)            	|
+| 41   	| 9/10  	| Text classification & Sentiment   | [NLTK ch06 1-1.3](https://www.nltk.org/book/ch06.html), TBA                 | IMDB Sentiment                  	| [Read/Watch](class5.md)            	|
 | 42   	| 16/10 	| NO LECTURE                      	| NO CLASS                            	|                    	|                	|
 | 43   	| 23/10 	| TBD [Neuroimaging project week] 	|                                     	| Project pitch       	|                	|
 | 44   	| 30/10 	| Topic modeling (Luca)             | TBA                            |                    	| [Read/Watch](class6.md)      	|
-| 45   	| 6/11  	| Information extraction            | NLTK ch07                            |                    	| [Read/Watch](class7.md)      	|
+| 45   	| 6/11  	| Information extraction            | [NLTK ch07](https://www.nltk.org/book/ch07.html)                            |                    	| [Read/Watch](class7.md)      	|
 | 46   	| 13/11 	| Vector semantics                	| TensorFlow Word2Vec tutorial         |                    	| [Read/Watch](class8.md)             	|
 | 47   	| 20/11 	| Dialog systems                    | DialogFlow                          	|                    	| [Read/Watch](class9.md)            	|
 | 48   	| 27/11 	| NLP in research                 	|                                     	|                    	|                	|
