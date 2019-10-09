@@ -196,6 +196,6 @@ In other words, the contribution of each individual student to the whole assignm
 
 A maximum of three students can take part in a group assignment.
 - Length of individual synopsis: 4-7 standard pages (not including code and figures) 
-- Length of synopsis for 2 students: 8-14 standard pages per student (not including code and figures) 
-- Length of synopsis for 3 students: 12-21 standard pages per student (not including code and figures)
+- Length of synopsis for 2 students: 8-14 standard pages (not including code and figures) 
+- Length of synopsis for 3 students: 12-21 standard pages (not including code and figures)
 
