@@ -29,9 +29,9 @@ Schedule
 | 39   	| 25/9  	| Language modeling               	| [NLTK ch05 1, 4-5.7](https://www.nltk.org/book/ch05.html)                 	|    [SpamLord](https://classroom.github.com/g/u8xFiArI)                	| [Read/Watch](class3.md)         	|
 | 40   	| 2/10  	| Linguistic alignment (Riccardo)           	| [ALIGN](https://github.com/nickduran/align-linguistic-alignment)                       |     Text generator               	| [Read/Watch](class4.md)  	|
 | 41   	| 9/10  	| Text classification & Sentiment   | [NLTK ch06 1-1.3](https://www.nltk.org/book/ch06.html), TBA                 |                 	| [Read/Watch](class5.md)            	| 
-| 42   	| 16/10 	| NO LECTURE                      	| NO CLASS                            	|  Midterm eval & Project start (on BB!)                  	|                	|
+| 42   	| 16/10 	| NO LECTURE                      	| NO CLASS                            	|  [Midterm eval](https://forms.gle/tfpLJ7HUvZGLzbaX9) & Project start (on BB!)                  	|                	|
 | 43   	| 23/10 	| No class [Neuroimaging project week] 	|  Project pitch (2 min pres)                     	|  Project proposal (on PeerGrade)    	|   [Read/Watch](class_break.md)             	|
-| 44   	| 30/10 	| Topic modeling (Luca)             | [IMDB Sentiment](https://classroom.github.com/g/2PUvVHK8)                            |                    	| [Read/Watch](class6.md)      	|
+| 44   	| 30/10 	| Topic modeling (Luca)             |                             |    [IMDB Sentiment](https://classroom.github.com/g/2PUvVHK8)                	| [Read/Watch](class6.md)      	|
 | 45   	| 6/11  	| Information extraction            | [NLTK ch07](https://www.nltk.org/book/ch07.html)                            |                    	| [Read/Watch](class7.md)      	|
 | 46   	| 13/11 	| Vector semantics                	| TensorFlow Word2Vec tutorial         |                    	| [Read/Watch](class8.md)             	|
 | 47   	| 20/11 	| Dialog systems                    | DialogFlow                          	|                    	| [Read/Watch](class9.md)            	|
