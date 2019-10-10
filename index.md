@@ -24,7 +24,7 @@ Schedule
 
 | Week 	| Date  	| Lecture (Weds)                  	| Class (Thurs)                       	| HW Due (on Weds 8am)      	| To-do       	|
 |------	|-------	|---------------------------------	|-------------------------------------	|--------------------	|----------------	|
-| 37   	| 11/9  	| Introduction                    	| [NLTK ch00](https://www.nltk.org/book/ch00.html), [ch01 3-4.4](https://www.nltk.org/book/ch01.html)                |  https://forms.gle/3pYG6Ep4oAst96ri9               	| [Read/Watch](class1.md)
+| 37   	| 11/9  	| Introduction                    	| [NLTK ch00](https://www.nltk.org/book/ch00.html), [ch01 3-4.4](https://www.nltk.org/book/ch01.html)                |  [Intro survey](https://forms.gle/3pYG6Ep4oAst96ri9)               	| [Read/Watch](class1.md)
 | 38   	| 18/9  	| Text processing                 	| [NLTK ch02 1.1-4.1](https://www.nltk.org/book/ch02.html), [ch03 3.4-3.10](https://www.nltk.org/book/ch03.html) 	   |   [J+M Ch2 exercises (optional - due Fri)](class2.md)                 	| [Read/Watch](class2.md)          	|
 | 39   	| 25/9  	| Language modeling               	| [NLTK ch05 1, 4-5.7](https://www.nltk.org/book/ch05.html)                 	|    [SpamLord](https://classroom.github.com/g/u8xFiArI)                	| [Read/Watch](class3.md)         	|
 | 40   	| 2/10  	| Linguistic alignment (Riccardo)           	| [ALIGN](https://github.com/nickduran/align-linguistic-alignment)                       |     Text generator               	| [Read/Watch](class4.md)  	|
