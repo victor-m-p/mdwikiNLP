@@ -1,5 +1,7 @@
-Information Extraction and Named Entity Recognition
+Information Retrieval 
 ------------------ 
 
-Relation Extraction Video 
-J+M (3ed) Chapter 17: Information Extraction page 1-3 and section 17.2 (pages 8-18)
+## Watch
+
+[IR videos](https://www.youtube.com/watch?v=o5nflzfX5tw&list=PLaZQkZp6WhWwoDuD6pQCmgVyDbUWl_ZUi&index=12)
+
