@@ -6,3 +6,6 @@ NLP research: ethics
 
 [Markham 2016. The OKCupid data release fiasco](https://points.datasociety.net/okcupid-data-release-fiasco-ba0388348cd#.gmxe25gj9)
 
+## Additional resources
+
+[Emily Bender's *Ethics in NLP* course syllabus](http://faculty.washington.edu/ebender/2019_575/)
