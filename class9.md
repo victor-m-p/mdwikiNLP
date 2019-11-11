@@ -1,4 +1,4 @@
-NLP research: ethics
+Ethics and NLP
 -------------------------
 
 ## Read
