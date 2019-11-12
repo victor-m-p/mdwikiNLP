@@ -3,7 +3,7 @@ Information Retrieval
 
 ## Watch
 
-[IR videos](https://www.youtube.com/watch?v=o5nflzfX5tw&list=PLaZQkZp6WhWwoDuD6pQCmgVyDbUWl_ZUi&index=12)
+[IR videos](https://www.youtube.com/playlist?list=PLaZQkZp6WhWwoDuD6pQCmgVyDbUWl_ZUi)
 
 ## Optional reading - in Blackboard under NLP- Fællesforelæsn > Literature 
 (Optional! For reference, or if you want to go deeper into IR in your final project)
