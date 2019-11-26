@@ -157,7 +157,7 @@ Assessment and exam
 
 ### Assignments 
 
-You will have a number of group programming assignments to complete in weeks .... 
+You will have a number of group programming assignments to complete.
 
 Use Github classroom to upload your assignments. You will receive an email invitation to register in week 36. 
 
@@ -202,3 +202,9 @@ A maximum of three students can take part in a group assignment.
 ### Questions? 
 
 Please ask in the [Padlet](https://padlet.com/rbkh/t0ei3w2v04tx)! 
+
+
+Poster sessions
+--------------
+
+Information on the poster sessions [can be found here](posters.md). 
