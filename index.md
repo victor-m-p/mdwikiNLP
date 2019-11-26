@@ -34,8 +34,8 @@ Schedule
 | 44   	| 30/10 	| Topic modeling (Luca)             | Luca's topic modeling tutorial                          |    [IMDB Sentiment](https://classroom.github.com/g/2PUvVHK8)                	| [Read/Watch](class6.md)      	|
 | 45   	| 6/11  	| [NLP at IMC workshop](http://interactingminds.au.dk/events/single-events/artikel/nlp-workshop-imc-fall-2019/)          |   [NLP/IMC Tutorial](http://interactingminds.au.dk/events/single-events/artikel/nlp-workshop-imc-fall-2019/)                       |                    	|     	|
 | 46   	| 13/11 	| Information retrieval / Vector semantics  |  Word embeddings        |                    	| [Read/Watch](class7.md)             	|
-| 47   	| 20/11 	| Relation Extraction, Q Answering, Dialog systems       | [DialogFlow](https://dialogflow.com/)                          	|                    	| [Read/Watch](class8.md)            	|
-| 48   	| 27/11 	| Ethics and NLP               	| Using pre-trained language models       	| ChatBot            | [Read/Watch](class9.md)                	|
+| 47   	| 20/11 	| Relation Extraction, Q Answering, Dialog systems       | [DialogFlow](https://dialogflow.com/)                          	|      ChatBot                	| [Read/Watch](class8.md)            	|
+| 48   	| 27/11 	| Ethics and NLP               	| Evaluation/Validation + Supervision    	|          | [Read/Watch](class9.md)                	|
 | 49   	| 4/12  	| Project supervision/Hackathon 1	| Project supervision/Hackathon 2                                    	|  Ethics statement                    	|              	|
 | 50   	| 11/12 	| Poster session 1                	| Poster session 2                    	|                    	|                	|
 
