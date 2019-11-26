@@ -1,0 +1,18 @@
+Poster sessions
+---------------------
+
+### When? 
+* Poster session 1: Weds, December 11 8-10 in 1483-312. 
+* Poster session 2: Thurs, December 12 10-12 in 1483-312. 
+  * *[Sign up for a session here!](https://docs.google.com/spreadsheets/d/1x1DEHNTNg68XRAAn8EjmcxFC4E0iHaGjA8roOsbFybA/edit?fbclid=IwAR1isYVs2axFDZF3YLj6AwIAbFub3egM7kjRDND6Icx108HkktjIknWs_Cg#gid=0)*
+  
+### Details
+
+1. Your poster should explain the goal of your project, describe your datatsets and methodology used, and summarize any results (so far). 
+
+Note: Your project is not expected to be in finished form! The poster session is a great chance to get feedback for the final synposis.
+
+2. Use a poster template. I recommend the [Better Scientific Poster](https://osf.io/ef53g/). You can find design ideas on Twitter with hashtag \#betterposters. 
+3. Save your poster as a pdf and submit to Blackboard as an assignment by **Mon December 9 at 11am**. 
+4. Posters will be printed in bulk on-campus in size A1 (equivalent to eight standard A4 sheets of paper). This is a smaller poster format, so please make sure your fonts are big enough! 
+5. Come to your poster session 20 min early to get your poster and set up. 
