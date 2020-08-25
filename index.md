@@ -1,43 +1,43 @@
 Natural Language Processing
 ============
+Cognitive Science Msc | Semester 1 | Fall 2020 
 
 Overview 
 ---------------------
 
 |           | When?         | Where? | Who?                      |
 |-----------|---------------|--------|---------------------------|
-| Lectures  | Weds 8-10   | 1441-012  | Rebekah Baglini           |
-| Classroom | See Blackboard | See Blackboard  | Arnault-Quentin Vermillet |
+| Lectures  | Fri 8-10   | ONLINE/1441 - 110  | Rebekah Baglini           |
+| Classroom | Wed 8-10 | 1252 - 204  | Kenneth Enevoldsen |
+
 
 The course addresses how we can approach theoretical and applied topics in human cognition using computational linguistics and natural language processing tools. The course also addresses key ethical topics that arise from the analysis of freely available natural language data, and in the development of natural language processing software and technologies. 
 This course builds on students’ background knowledge in statistics and statistical programming, and introduces students to working with large data sets. The course builds towards the data science course. The course introduces students to ethical and philosophical topics, which will be extended on in the data science course. The course prepares students for careers involving analysis of text and other forms of natural language data, and for careers involving development of natural language software. 
 
-
    
-See the [course catalog](https://kursuskatalog.au.dk/en/course/94415/Natural-language-processing) for more information. 
-
+See the [course catalog](https://kursuskatalog.au.dk/en/course/101106/Natural-language-processing) for more information. 
 
 
 Schedule 
 ---------------------
 
 
-| Week 	| Date  	| Lecture (Weds)                  	| Class (Thurs)                       	| HW Due (on Weds 8am)      	| To-do       	|
-|------	|-------	|---------------------------------	|-------------------------------------	|--------------------	|----------------	|
-| 37   	| 11/9  	| Introduction                    	| [NLTK ch00](https://www.nltk.org/book/ch00.html), [ch01 3-4.4](https://www.nltk.org/book/ch01.html)                |  [Intro survey](https://forms.gle/3pYG6Ep4oAst96ri9)               	| [Read/Watch](class1.md)
-| 38   	| 18/9  	| Text processing                 	| [NLTK ch02 1.1-4.1](https://www.nltk.org/book/ch02.html), [ch03 3.4-3.10](https://www.nltk.org/book/ch03.html) 	   |   [J+M Ch2 exercises (optional - due Fri)](class2.md)                 	| [Read/Watch](class2.md)          	|
-| 39   	| 25/9  	| Language modeling               	| [NLTK ch05 1, 4-5.7](https://www.nltk.org/book/ch05.html)                 	|    [SpamLord](https://classroom.github.com/g/u8xFiArI)                	| [Read/Watch](class3.md)         	|
-| 40   	| 2/10  	| Linguistic alignment (Riccardo)           	| [ALIGN](https://github.com/nickduran/align-linguistic-alignment)                       |               	| [Read/Watch](class4.md)  	|
-| 41   	| 9/10  	| Text classification & Sentiment   | [NLTK ch06 1-1.3](https://www.nltk.org/book/ch06.html), TBA                 |                 	| [Read/Watch](class5.md)            	| 
-| 42   	| 16/10 	| NO LECTURE                      	| NO CLASS                            	|  [Midterm eval](https://forms.gle/tfpLJ7HUvZGLzbaX9) & Project start (on BB!)                  	|                	|
-| 43   	| 23/10 	| No class [Neuroimaging project week] 	|  Project pitch (2 min pres)                     	|  Project proposal (on PeerGrade)    	|   [Read/Watch](class_break.md)             	|
-| 44   	| 30/10 	| Topic modeling (Luca)             | Luca's topic modeling tutorial                          |    [IMDB Sentiment](https://classroom.github.com/g/2PUvVHK8)                	| [Read/Watch](class6.md)      	|
-| 45   	| 6/11  	| [NLP at IMC workshop](http://interactingminds.au.dk/events/single-events/artikel/nlp-workshop-imc-fall-2019/)          |   [NLP/IMC Tutorial](http://interactingminds.au.dk/events/single-events/artikel/nlp-workshop-imc-fall-2019/)                       |                    	|     	|
-| 46   	| 13/11 	| Information retrieval / Vector semantics  |  Word embeddings        |                    	| [Read/Watch](class7.md)             	|
-| 47   	| 20/11 	| Relation Extraction, Q Answering, Dialog systems       | [DialogFlow](https://dialogflow.com/)                          	|      ChatBot                	| [Read/Watch](class8.md)            	|
-| 48   	| 27/11 	| Ethics and NLP               	| Evaluation/Validation + Supervision    	|          | [Read/Watch](class9.md)                	|
-| 49   	| 4/12  	| Project supervision/Hackathon 1	| Project supervision/Hackathon 2                                    	|  Ethics statement                    	|              	|
-| 50   	| 11/12 	| Poster session 1                	| Poster session 2                    	|                    	|                	|
+| Week | Prepare                           | Classroom (Weds)       | Live lecture (Fri)      | Assignment (Fri 8am)   |
+|------|-----------------------------------|------------------------|-------------------------|------------------------|
+| 36   | [Read/Watch](class1.md)           | Computer set-up        | Introduction            | Intro survey           |
+| 37   | [Read/Watch](class2.md)           |                        | Text processing         | PS 1                   |
+| 38   | [Read/Watch](class3.md)           |                        | Language modeling       | PS 2                   |
+| 39   | [Read/Watch](class4.md)           |                        | Classification          | PS 3                   |
+| 40   | [Read/Watch](class5.md)           |                        | Classification II       |                        |
+| 41   | [Read/Watch](class6.md)           |                        | Information retrieval   | PS 4                   |
+| 42   | [Read/Watch](class_break.md)      | BREAK                  | BREAK                   | BREAK                  |
+| 43   | [Read/Watch](class7.md)           | Word2Vec               | Vector semantics        | Padlet project pitch   |
+| 44   | [Read/Watch](class8.md)           | Topic modeling         | NER/Relation extraction | PS 5/Project proposal  |
+| 45   | [Read/Watch](class9.md)           | Data wrangling         | NLP in research         |                        |
+| 46   | [Read/Watch](class10.md)          | Model design           | Ethics in NLP           | Data/pipeline report   |
+| 47   | [Read/Watch](class11.md)          | Supervision            | NLP in industry         | Ethics statement       |
+| 48   | [Read/Watch](class12.md)          | Evaluation/validation  | Supervision             |                        |
+| 49   | [Poster instructions](posters.md) | Poster session 1       | Poster session 2        |                        |
 
 Readings and resources 
 ---------------------

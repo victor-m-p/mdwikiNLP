@@ -2,7 +2,7 @@
 Break week
 ------------------------------
 
-## Readings (for your Sentiment homework and to help prepare projects) 
+## Readings 
 
 [Thumbs up? Sentiment classification using machine learning techniques](http://www.cs.cornell.edu/home/llee/papers/sentiment.pdf)
 Bo Pang, Lillian Lee, and Shivakumar Vaithyanathan

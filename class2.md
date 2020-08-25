@@ -8,7 +8,7 @@ Class 2: Introduction
 ## Reading 
 J+M 3rd Chapter 2 ["Regular Expressions, Text Normalization, Edit Distance", pages 1-25](https://web.stanford.edu/~jurafsky/slp3/2.pdf) 
 
-## Exercises (optional - may cover material beyond required readings)
+## Exercises 
 *From J+M 3rd Chapter 2 ["Regular Expressions, Text Normalization, Edit Distance"](https://web.stanford.edu/~jurafsky/slp3/2.pdf)*
 
 2.1 Write regular expressions for the following languages.
