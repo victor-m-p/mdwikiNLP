@@ -22,21 +22,21 @@ Schedule
 ---------------------
 
 
-| Week | Prepare                           | Classroom (Weds)       | Live lecture (Fri)      | Assignment (Fri 8am)   |
+| Week | Watch/Read/Do                          | Classroom (Weds)       | Live lecture (Fri)      | Assignment (Fri 8am)   |
 |------|-----------------------------------|------------------------|-------------------------|------------------------|
-| 36   | [Read/Watch](class1.md)           | Computer set-up        | Introduction            | Intro survey           |
-| 37   | [Read/Watch](class2.md)           |                        | Text processing         | PS 1                   |
-| 38   | [Read/Watch](class3.md)           |                        | Language modeling       | PS 2                   |
-| 39   | [Read/Watch](class4.md)           |                        | Classification          | PS 3                   |
-| 40   | [Read/Watch](class5.md)           |                        | Classification II       |                        |
-| 41   | [Read/Watch](class6.md)           |                        | Information retrieval   | PS 4                   |
+| 36   | [Introduction](class1.md)         | Computer set-up        | Course overview            | Intro survey           |
+| 37   | [Text processing](class2.md)      | Basic packages and modules | Unix, grep         | PS 1                   |
+| 38   | [Read/Watch](class3.md)           | Ngrams 				 | Language modeling       | PS 2                   |
+| 39   | [Read/Watch](class4.md)           | NaiveBayes from scratch | Classification          | PS 3                   |
+| 40   | [Read/Watch](class5.md)           | Scikit-learn 			 | Classification II       |                        |
+| 41   | [Read/Watch](class6.md)           | Vectorization			 | Information retrieval   | PS 4                   |
 | 42   | [Read/Watch](class_break.md)      | BREAK                  | BREAK                   | BREAK                  |
-| 43   | [Read/Watch](class7.md)           | Word2Vec               | Vector semantics        | Project pitch   |
-| 44   | [Read/Watch](class8.md)           | Topic modeling         | NER/Relation extraction | PS 5  |
-| 45   | [Read/Watch](class9.md)           | Data wrangling         | NLP in CogSci research         |                        |
-| 46   | [Read/Watch](class10.md)          | Model design           | Ethics in NLP           | Data/pipeline report   |
-| 47   | [Read/Watch](class11.md)          | Supervision            | NLP in industry         | Ethics statement       |
-| 48   | [Read/Watch](class12.md)          | Evaluation/validation  | Supervision             |                        |
+| 43   | [Read/Watch](class7.md)           | Embeddings				| Vector semantics        | Project pitch   |
+| 44   | [Read/Watch](class8.md)           | Clustering         | NER/Relation extraction + Deep Learning | PS 5  |
+| 45   | [Read/Watch](class9.md)           | Huggingface transformers  | NLP in CogSci research         |                        |
+| 46   | [Read/Watch](class10.md)          | Scraping data		    | Ethics in NLP           | Data/pipeline report   |
+| 47   | [Read/Watch](class11.md)          | Modal evaluation/validation | NLP in industry         | Ethics statement       |
+| 48   | [Read/Watch](class12.md)          | Supervision  			| Supervision             |                        |
 | 49   | [Poster instructions](posters.md) | Poster session 1       | Poster session 2        |                        |
 
 Readings and resources 
