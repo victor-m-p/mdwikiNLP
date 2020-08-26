@@ -1,4 +1,4 @@
-NLP in CogSci research 
+NLP in industry
 -------------------------
 
 TBD
