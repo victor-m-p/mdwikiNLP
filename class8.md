@@ -1,4 +1,4 @@
-Relation Extraction, Q Answering, Dialog systems
+Relation Extraction, Q Answering
 -------------------------
 
 This week we're going to smoosh together a couple different topics: 
@@ -11,8 +11,6 @@ This week we're going to smoosh together a couple different topics:
 
 ## Read
 
-[J+M (3ed) Chapter 26: Dialog Systems and Chatbots - pp1-12](http://web.stanford.edu/~jurafsky/slp3/26.pdf)
 
 (Optional) [J+M (3ed) Chapter 25: Question Answering](http://web.stanford.edu/~jurafsky/slp3/25.pdf)
 
-(Optional) [Weizenbaum, Joseph. 1966, "ELIZA - A Computer Program For the Study of Natural Language Communication Between Man And Machine", Communications of the ACM 9 (1): 36-45](http://web.stanford.edu/class/cs124/p36-weizenabaum.pdf)
