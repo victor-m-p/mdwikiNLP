@@ -1,14 +1,16 @@
-Linguistic alignment 
--------------------
 
-Linguistic alignment (LA) is the tendency during a conversation to reuse each other's linguistic expressions, including lexical, conceptual, or syntactic structures. LA is often argued to be a crucial driver in reciprocal understanding and interpersonal rapport, though its precise dynamics and effects are still controversial. One barrier to more systematic investigation of these effects lies in the diversity in the methods employed to analyze LA, which makes it difficult to integrate and compare results of individual studies. On Wednesday, our very own Riccardo Fusaroli will present a guest lecture on work he has done (with Nicholas Duran and Alexandra Paxton) to address these difficulties. The result is the ALIGN library for Python, which you'll get hands-on experience with in Thursday's class session. 
+Text classification & Sentiment 
+------------------------------
 
-## Readings 
+## Videos 
 
-[Dialog as interpersonal synergy](https://www.sciencedirect.com/science/article/pii/S0732118X13000342?via%3Dihub) (background reading on LA)
+[Naive Bayes and Text Classification Videos](https://www.youtube.com/watch?v=Y1j_J53k7fo&list=PLaZQkZp6WhWxU3kA6wV0nb5dY1SXDEKWH) 
+(Playlist duration: 2 hours, 3 minutes and 42 seconds) 
 
-[ALIGN: Analyzing Linguistic Interactions with Generalizable techNiques](https://psyarxiv.com/a5yh9/) (Topic of lecture) 
+## Readings
 
-## ALIGN on Github
+J+M (3ed) Chapter 4, ["Naive Bayes and Sentiment Classification" pages 1-15, sections 4.1 through 4.8](https://web.stanford.edu/~jurafsky/slp3/4.pdf)
 
-[https://github.com/nickduran/align-linguistic-alignment]
+## Group exercises 
+
+[Exercises](https://aarhusuniversitet-my.sharepoint.com/:w:/g/personal/au622501_uni_au_dk/ETW8G0Mu04hNpmfMOgQR0eYBSGXha27hyM30D-CPAgTjYA?e=BG2svC) [Solutions](https://aarhusuniversitet-my.sharepoint.com/:w:/g/personal/au622501_uni_au_dk/EUAjG1qWOh9GhzITVV5SSlABwGgpkRfecu6cYjnB7opQQA?e=znmOKO)

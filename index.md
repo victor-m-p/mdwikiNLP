@@ -33,7 +33,7 @@ Schedule
 | 42   | [Read/Watch](class_break.md)      | BREAK                  | BREAK                   | BREAK                  |
 | 43   | [Read/Watch](class7.md)           | Word2Vec               | Vector semantics        | Project pitch   |
 | 44   | [Read/Watch](class8.md)           | Topic modeling         | NER/Relation extraction | PS 5  |
-| 45   | [Read/Watch](class9.md)           | Data wrangling         | NLP in research         |                        |
+| 45   | [Read/Watch](class9.md)           | Data wrangling         | NLP in CogSci research         |                        |
 | 46   | [Read/Watch](class10.md)          | Model design           | Ethics in NLP           | Data/pipeline report   |
 | 47   | [Read/Watch](class11.md)          | Supervision            | NLP in industry         | Ethics statement       |
 | 48   | [Read/Watch](class12.md)          | Evaluation/validation  | Supervision             |                        |

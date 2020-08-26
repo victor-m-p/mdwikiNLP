@@ -1,15 +1,10 @@
-Information Retrieval 
+Vector semantics  
 ------------------ 
 
 ## Watch
 
-[IR videos](https://www.youtube.com/playlist?list=PLaZQkZp6WhWwoDuD6pQCmgVyDbUWl_ZUi)
+[Vector semantics videos](https://www.youtube.com/playlist?list=PLSI4up6Rakki3gJiPxVg4aW8KU4jCI6qj)
+(Playlist duration: 42 minutes, 49 seconds) 
 
-## Optional reading - in Blackboard under NLP- Fællesforelæsn > Literature 
-(Optional! For reference, or if you want to go deeper into IR in your final project)
-- MR+S* Chapter 1: Boolean Retrieval (pages 1-17)
-- MR+S Chapter 2: Term vocabulary and postings lists (only pages 33-42)
-- MR+S Chapter 6: Scoring, term weighting, and the vector space model, (only pages 100 and 107-116)
-- MR+S Chapter 8: Evaluation in Information Retrieval (only pages 139-149)
-
-\* Manning, Christopher D., Prabhakar Raghavan, and Hinrich Schuetze. 2008. *Introduction to Information Retrieval.*
+## Read 
+[J+M (3ed) Chapter 6: Vector Semantics and Embeddings](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
