@@ -1,6 +1,6 @@
-Natural Language Processing
+Natural Language Processing (Fall 2020)
 ============
-Cognitive Science Msc | Semester 1 | Fall 2020 
+
 
 Overview 
 ---------------------
@@ -11,123 +11,68 @@ Overview
 | Classroom | Wed 8-10 | 1252 - 204  | Kenneth Enevoldsen |
 
 
+**Cognitive Science Msc | Semester 1 | Fall 2020** 
+
 The course addresses how we can approach theoretical and applied topics in human cognition using computational linguistics and natural language processing tools. The course also addresses key ethical topics that arise from the analysis of freely available natural language data, and in the development of natural language processing software and technologies. 
+
 This course builds on students’ background knowledge in statistics and statistical programming, and introduces students to working with large data sets. The course builds towards the data science course. The course introduces students to ethical and philosophical topics, which will be extended on in the data science course. The course prepares students for careers involving analysis of text and other forms of natural language data, and for careers involving development of natural language software. 
 
    
 See the [course catalog](https://kursuskatalog.au.dk/en/course/101106/Natural-language-processing) for more information. 
 
-
-Schedule 
+Expectations / Workload
 ---------------------
 
+Note: The nature of this course is that you have to be diligent about putting aside a little time to work (almost) every day. 
 
-| Week | Watch/Read/Do                          | Classroom (Weds)       | Live lecture (Fri)      | Assignment (Fri 8am)   |
-|------|-----------------------------------|------------------------|-------------------------|------------------------|
-| 36   | [Introduction](class1.md)         | Computer set-up        | Course overview            | Intro survey           |
-| 37   | [Text processing](class2.md)      | Basic packages and modules | Unix, grep         | PS 1                   |
-| 38   | [Read/Watch](class3.md)           | Ngrams 				 | Language modeling       | PS 2                   |
-| 39   | [Read/Watch](class4.md)           | NaiveBayes from scratch | Classification          | PS 3                   |
-| 40   | [Read/Watch](class5.md)           | Scikit-learn 			 | Classification II       |                        |
-| 41   | [Read/Watch](class6.md)           | Vectorization			 | Information retrieval   | PS 4                   |
-| 42   | [Read/Watch](class_break.md)      | BREAK                  | BREAK                   | BREAK                  |
-| 43   | [Read/Watch](class7.md)           | Embeddings				| Vector semantics        | Project pitch   |
-| 44   | [Read/Watch](class8.md)           | Clustering         | NER/Relation extraction + Deep Learning | PS 5  |
-| 45   | [Read/Watch](class9.md)           | Huggingface transformers  | NLP in CogSci research         |                        |
-| 46   | [Read/Watch](class10.md)          | Scraping data		    | Ethics in NLP           | Data/pipeline report   |
-| 47   | [Read/Watch](class11.md)          | Modal evaluation/validation | NLP in industry         | Ethics statement       |
-| 48   | [Read/Watch](class12.md)          | Supervision  			| Supervision             |                        |
-| 49   | [Poster instructions](posters.md) | Poster session 1       | Poster session 2        |                        |
+### Workload ###
+Here's how much time you should roughly expect to spend on course activities each week. 
 
-Readings and resources 
++ Video lectures = 2.5 hours 
++ Reading/study questions = 2-3 hours 
++ Group exercises = 2-3 hours
++ Coding assignment or final project work = 2-3 hours 
++ Wednesday classroom = 2 hours
++ Friday live lecture = 2 hours 
+
+
+### Weekly work plan ### 
+
+In each row of the schedule, you'll see what you need to do to keep up with the course that week. 
+
+1. **Watch/Read** - Watch the video lectures and do weekly readings
+2. **Exercises** - Do exercises with your study group to deepen your understanding of the content 
+3. **Classroom** - Attend the classroom session for hands-on training in Python progrmaming  
+4. **Assignments** - Occassional assignments to prepare you for the final exam 
+
+
+Lesson Plan 
 ---------------------
+**Legend for Exercises and Assignments** 
+Unmarked = do with your study group 
 
-**Textbook chapters for Weds lectures**
-[Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) (3rd ed. draft) by Dan Jurafsky and James H. Martin. 
-
-**Supplementary Python textbook for Thurs classroom session**: 
-[Natural Language Processing with Python](https://www.nltk.org/book/) by Steven Bird, Ewan Klein, and Edward Loper. 
-
-### Jupyter notebooks
-
-**For classroom group exercises**:
-[The hands-on NLTK tutorial for NLP in Python](https://github.com/hb20007/hands-on-nltk-tutorial) 
-
-**For self-paced Python learning**:
-[leriomaggio's Collection of Jupyter Notebooks about Python programming](https://github.com/leriomaggio/python-in-a-notebook)
+<a name="foot1">1</a>: do inividually 
+<a name="foot2">2</a>: do with your exam group
 
 
-Learning to program 
----------------
-
-Note: You are expected to bring a laptop to every lecture and class. Please make sure to install [Anaconda](www.anaconda.com) before our first meeting. 
-
-This class will involve lots of hands-on implementation in Python. We will start off very gently, but note that this is *not* an introduction to Python programming class - i.e. you will not be formally instructed on matters like "what makes Python an object-oriented programming language?" and "when should one use a list versus a tuple?", nor will you be penalized for inelegant coding solutions. If the code accomplishes what it's supposed to, that's what matters. 
-
-### Basic elements of Python 
-
-In order to complete the classroom group work and coding assignments, it will help to have a basic understanding of the following: 
-
-+ variables and variable assignment
-+ strings, numbers (intergers and floats), basic arithmetic operations
-+ lists, sets, tuples, dictionaries 
-+ simple input and output
-+ conditional (if) statements
-+ while and for loops 
-+ functions and classes 
-
-By "basic understanding" I mean that you have a grasp of what these different elements do and how they differ from one another. (See also **What does is mean to learn programming?** below.) 
-
-Although can certainly learn these 'as-you-go' during the class, I highly recommend preparing doing a few hours of Python self-paced study in advance. Below is a list of five small programming tasks to help you assess your level of Python proficiency. 
-
----------------------------------------
-### Self-assessment test for Python programming readiness:
-
-**Task 1: Adding machine**
-
-Write a function that adds two numbers x,y and returns the output x + y. Sample input might be x=-1, y=8 in which case the expected output is 7. The expected output is either float or int.
-
-**Task 2: Character count**
-
-Write a function that takes two arguments
-- *s* an arbitrary string.
-- *l* a letter (i.e. any valid single character).
-
-The function should search the string for occurences of the letter and return an integer indicating how many times the letter *l* occurs in the string *s*.
-
-Note: Your function should be case-insensitive, i.e. it shouldn't care if the letter is "H" or "h"
-
-**Task 3: Function *isEven***
-
-Write a function which evaluates if a given integer number (given as a parameter for the function) is an even number. The function should return a Boolean value True if the number is even and False if the number is odd.
-Given a list (or array) of *n* integer numbers, write a program which uses the function *isEven* to determines the number of even items in the list.
-
-**Task 4: Search in List**
-
-Given a list (or array) of *n* floating-point numbers, write a program which searches and outputs the largest number in the list.
-
-**Task 5: String and Loops**
-
-Write a function which takes a string (word) as an argument. The function should print the complete word on the first line and remove the last character on each successive line, ending with a single (the first) character. 
-Example: Input word is Test
-Function output:
-Test
-Tes
-Te
+| Week | Watch/Read                     | Classroom (Weds)       | Exercises (due Wed 11pm)  | Assignments (due Fri 8am)  |
+|------|-----------------------------------|------------------------|----------------------|------------------------|
+| 36   | [Introduction](class1.md)         | Computer set-up        | [Intro survey<sup>[1](#foot1)</sup>](https://forms.gle/bpX7XwtbLnQA1niq7)                       |         |
+| 37   | [Text processing](class2.md)      | Basic packages/modules | Unix, grep           | [Basic Python quiz<sup>[1](#foot1)</sup> ](python.md)     		|
+| 38   | [Language modeling](class3.md)    | Counts and collocations| Ngrams			   | [HW1 Spamlord](https://classroom.github.com/g/HUL5pc63)|
+| 39   | [Classification I](class4.md)     | NaiveBayes from scratch| NaiveBayes           |                        |
+| 40   | [Classification II](class5.md)    | Scikit-learn 			| 				       |[HW2 Sentiment](https://classroom.github.com/g/qUNponW_) |
+| 41   | [Information retrieval](class6.md)| Vectorization			| IR exercises  	   |                		|
+| 42   | [Project prep](class_break.md)    | BREAK                  | BREAK                | BREAK                  |
+| 43   | [Vector semantics](class7.md)     | Embeddings				|                      | Project pitch<sup>[2](#foot2)</sup>    		|
+| 44   | [NER/Relation extraction + Deep Learning](class8.md) | Clustering         |  NER/RE exercises |
+| 45   | [NLP in CogSci research](class9.md)| Huggingface transformers  |          |                        |
+| 46   | [Ethics in NLP](class10.md)       | Scraping data		    |           | Data/pipeline report<sup>[2](#foot2)</sup>     |
+| 47   | [NLP in industry](class11.md)     | Modal evaluation/validation |          | Ethics statement<sup>[2](#foot2)</sup>         |
+| 48   |         | Supervision<sup>[2](#foot2)</sup>    		   | Supervision<sup>[2](#foot2)</sup>               |                        |
+| 49   | [Poster instructions](posters.md) | Poster session 1<sup>[2](#foot2)</sup>         | Poster session 2<sup>[2](#foot2)</sup>          |                        |
 
 
-**Task 6: Get dict keys** 
-
-Write a function that takes as it's single input any dictionary
-The function should return the keys of the input dictionary, in a list.
-
----------------------------------------
-
-### Ok. I need to learn some things. Where should I start? 
-If you're starting from 0, that's okay! Just spend a bit of time on self-paced study. There are a dizzying array of Python study options online, including many you can do from your web browser (Coursera, LearnPython.org, DataCamp). If you go ahead and set up your computer for the class, I highly recommend following this course: 
-
-[Python in a notebook](https://github.com/leriomaggio/python-in-a-notebook) 
-This course will also familiarizing you with Jupyter notebooks, which we will be using a lot this semester. 
 
 Troubleshooting and email policy
 ---------------------
@@ -145,11 +90,10 @@ You're working on a group programming project and you're stuck. What do you do?
 
 Still stuck? 
 
-5. Ask your classmates in the forum. 
-6. Bring it to class on Thursday to troubleshoot. 
+5. Ask your classmates on Slack. 
+6. Bring it to classroom sessions to troubleshoot. 
 
 Note! *Email your instructors* is not listed as an option above. This is not because we don't care. But we simply do not have enough paid hours to provide help over email (which, of course, would really just outsource the Googling to us)! Do your best, get as far as you can, work with your classmates, and seek help in the Thursday classroom sessions. 
-
 
 
 Assessment and exam
@@ -183,7 +127,7 @@ In the evaluation of the student's performance, emphasis is placed on the extent
 Start thinking about your final project idea as early as possible. If you would like to do a group assignment (*highly recommended*) you will have the opportunity to present a brief **project pitch** in week 43 (October 23) where you can recruit collaborators, or join someone else's cool project! 
 
 ### Final exam details  
-Note: Oral exams will take place between January 20-24, 2020. 
+Note: Oral exams will take place between January 25-28, 2021. 
 
 The exam is an individual oral exam based on a written synopsis. The duration is 30 minutes including the student's presentation of the synopsis project, followed by dialogue with the examiners and assessment. 
 
@@ -199,9 +143,6 @@ A maximum of three students can take part in a group assignment.
 - Length of synopsis for 2 students: 8-14 standard pages (not including code and figures) 
 - Length of synopsis for 3 students: 12-21 standard pages (not including code and figures)
 
-### Questions? 
-
-Please ask in the [Padlet](https://padlet.com/rbkh/t0ei3w2v04tx)! 
 
 
 Poster sessions

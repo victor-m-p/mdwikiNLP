@@ -1,17 +1,11 @@
 Class 1: Introduction
 ============
-
-Note: Assigned videos/readings should be done *before* Wednesday lecture. 
+Read and watch before class on Friday (Week 36)
 
 ### Reading 
-(Access on course Blackboard)
+[Context of Natural Language Processing](https://medium.com/swlh/context-of-natural-language-processing-be3c945015b9)
 
-Jurafsky & Martin *Speech and Language Processing*, Chapter 1: 1-1.4 
+### Watch 
+[Video on Zipf's Law](https://www.youtube.com/watch?v=fCn8zs912OE) 
 
-Manning & Schutze *Foundations of Statistical Natural Language Processing*, Chapter 1-1.1, 1.4 
 
-[Optional video on Zipf's Law](https://www.youtube.com/watch?v=fCn8zs912OE) 
-
-## Introductory survey - please do before Wednesday 11/9 
-
-https://forms.gle/3pYG6Ep4oAst96ri9 
