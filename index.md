@@ -66,7 +66,7 @@ Lesson Plan
 | 46   | [Ethics in NLP](class10.md)       | Scraping data		    |           | Data/pipeline report     |
 | 47   | [NLP in industry](class11.md)     | Modal evaluation/validation |          | Ethics statement         |
 | 48   |         | Supervision   		   | Supervision              |                        |
-| 49   | [Poster instructions](posters.md) | Poster session 1        | Poster session 2         |              |
+| 49   | [Poster instructions](posters.md) | Poster session 1        | Poster session 2       |   Final evaluation           |
 
 
 
