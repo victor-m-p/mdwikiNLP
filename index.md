@@ -66,11 +66,10 @@ Lesson Plan
 | 48   |         | Supervision<sup>[2](#foot2)</sup>    		   | Supervision<sup>[2](#foot2)</sup>               |                        |
 | 49   | [Poster instructions](posters.md) | Poster session 1<sup>[2](#foot2)</sup>         | Poster session 2<sup>[2](#foot2)</sup>          |                        |
 
+
 **Legend for Exercises and Assignments** 
 Unmarked = do with your study group 
-
 <a name="foot1">1</a>: do individually 
-
 <a name="foot2">2</a>: do with your exam group
 
 
