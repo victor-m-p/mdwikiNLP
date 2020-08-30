@@ -49,12 +49,10 @@ In each row of the schedule, you'll see what you need to do to keep up with the 
 Lesson Plan 
 ---------------------
 
-
-
 | Week | Watch/Read                     | Classroom (Weds)       | Exercises (due Wed 11pm)  | Assignments (due Fri 8am)  |
 |------|-----------------------------------|------------------------|----------------------|------------------------|
-| 36   | [Introduction](class1.md)         | Computer set-up        | [Intro survey<sup>[1](#foot1)</sup>](https://forms.gle/bpX7XwtbLnQA1niq7)                       |         |
-| 37   | [Text processing](class2.md)      | Basic packages/modules | Unix, grep           | [Basic Python quiz<sup>[1](#foot1)</sup> ](python.md)     		|
+| 36   | [Introduction](class1.md)         | Computer set-up        | [Intro survey](https://forms.gle/bpX7XwtbLnQA1niq7)<sup>[1](#foot1)</sup>                       |         |
+| 37   | [Text processing](class2.md)      | Basic packages/modules | Unix, grep           | [Basic Python quiz](python.md)<sup>[1](#foot1)</sup>     		|
 | 38   | [Language modeling](class3.md)    | Counts and collocations| Ngrams			   | [HW1 Spamlord](https://classroom.github.com/g/HUL5pc63)|
 | 39   | [Classification I](class4.md)     | NaiveBayes from scratch| NaiveBayes           |                        |
 | 40   | [Classification II](class5.md)    | Scikit-learn 			| 				       |[HW2 Sentiment](https://classroom.github.com/g/qUNponW_) |
@@ -67,9 +65,10 @@ Lesson Plan
 | 47   | [NLP in industry](class11.md)     | Modal evaluation/validation |          | Ethics statement<sup>[2](#foot2)</sup>         |
 | 48   |         | Supervision<sup>[2](#foot2)</sup>    		   | Supervision<sup>[2](#foot2)</sup>               |                        |
 | 49   | [Poster instructions](posters.md) | Poster session 1<sup>[2](#foot2)</sup>         | Poster session 2<sup>[2](#foot2)</sup>          |                        |
+
+
 **Legend for Exercises and Assignments** 
 Unmarked = do with your study group 
-
 <a name="foot1">1</a>: do individually 
 <a name="foot2">2</a>: do with your exam group
 
