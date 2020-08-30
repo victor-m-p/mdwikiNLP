@@ -69,7 +69,9 @@ Lesson Plan
 
 **Legend for Exercises and Assignments** 
 Unmarked = do with your study group 
+
 <a name="foot1">1</a>: do individually 
+
 <a name="foot2">2</a>: do with your exam group
 
 
