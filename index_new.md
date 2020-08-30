@@ -49,8 +49,6 @@ In each row of the schedule, you'll see what you need to do to keep up with the 
 Lesson Plan 
 ---------------------
 
-
-
 | Week | Watch/Read                     | Classroom (Weds)       | Exercises (due Wed 11pm)  | Assignments (due Fri 8am)  |
 |------|-----------------------------------|------------------------|----------------------|------------------------|
 | 36   | [Introduction](class1.md)         | Computer set-up        | [Intro survey](https://forms.gle/bpX7XwtbLnQA1niq7)                      |         |
