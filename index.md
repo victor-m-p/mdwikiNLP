@@ -77,10 +77,10 @@ Troubleshooting and email policy
 
 This meme is funny because it's true. Programming can only be learned by doing. And no matter how much experience you have, it's a process of trial, error, and **lots and lots of Googling.** 
 
-You're working on a group programming project and you're stuck. What do you do? 
+You're working on a programming project and you're stuck. What do you do? 
 
 1. Google it. 
-2. Google it again. Try creative rephrasing. There is a very high chance someone has asked some version of your exac question on [StackExchange](www.stackexchange.org).
+2. Google it again. Try creative rephrasing. There is a very high chance someone has asked some version of your exact question on [StackExchange](www.stackexchange.org).
 3. Try backtracking and simplifying your code. 
 4. Use Google to find an alternative way of accomplishing the same task. 
 
@@ -92,12 +92,6 @@ Still stuck?
 
 Assessment and exam
 --------------
-
-### Assignments 
-
-You will have a number of group programming assignments to complete.
-
-Use Github classroom to upload your assignments. You will receive an email invitation to register in week 36. 
 
 ### Assessment/Academic goals 
 In the evaluation of the student's performance, emphasis is placed on the extent to which the student is able to:
