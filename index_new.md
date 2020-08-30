@@ -67,8 +67,6 @@ Lesson Plan
 | 47   | [NLP in industry](class11.md)     | Modal evaluation/validation |          | Ethics statement         |
 | 48   |         | Supervision   		   | Supervision              |                        |
 | 49   | [Poster instructions](posters.md) | Poster session 1        | Poster session 2         |                        |
-**Legend for Exercises and Assignments** 
-Unmarked = do with your study group 
 
 
 
