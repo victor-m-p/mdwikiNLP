@@ -60,6 +60,7 @@ We will be using GitHub for version control, please make a GitHub account before
 installed using the command:
 `pip install packagename`
 where packagename in name of the package
+
 |Package| Usage | 
 |----------|------------|
 | **General Python** |  |
