@@ -1,4 +1,4 @@
-# Class 1
+# Class 1: Introduction and Setup
 This class will focus on setting everything up for the semester, thus is it extremely important you do the setup before class. If there is any issues this will be the class where we have the time to deal with them.
 
 ### TL:DR
@@ -48,7 +48,7 @@ We will be using GitHub for version control, please make a [GitHub account](http
         2. The use of “the”?
 
 
-## The NLP virtual env setup guide
+## The NLP virtual environment setup guide
 - Open anaconda prompt on windows or terminal on MacOS/Linux 
 - Run the following:
   - `conda create -n nlp tensorflow`
@@ -58,8 +58,10 @@ We will be using GitHub for version control, please make a [GitHub account](http
 
 ## Required Packages
 installed using the command:
+
 `pip install packagename`
-where packagename in name of the package
+
+where packagename in name of the package. Note that all of the packages listed below is included in the virtual environment setup guide
 
 |Package| Usage | 
 |----------|------------|
@@ -81,5 +83,23 @@ where packagename in name of the package
 |flake8 | (a linter for python, i.e. an code spell checker) |
 
 
+---
+
 ## Materials used in class
 [Python script on Zipf's Law](classroom_materials/class_1/zipfs_law.py) 
+
+<!---
+Personal Notes on lecture structure:
+
+1. Installation of Anaconda, VS code, and GitHub
+2. Make the virtual environment for NLP (if they have already made it just add tensorflow 2 to it)
+3. Intro to VS code
+   1. General interface
+   2. Linting
+   3. Git
+   4. liveshare
+   5. Other tasks such as Markdown and csv
+4. Script
+   1. 
+-->
+
