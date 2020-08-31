@@ -34,7 +34,7 @@ I will be using Visual Studio Code (VS code) as my code editor, I recommend you 
 We will be using GitHub for version control, please make a GitHub account before class and make sure you have git installed on your machine. If you haven’t used GitHub before I recommend you take some time doing the GitHub QuickStart.
 
 
-## Class Plan:
+## Class Plan
 1.  setup a virtual environment, but feel free to do it beforehand see setup guide below
 2. We will install the required packages, again feel free to do it beforehand see below
 3. Look at VS code so everyone is familiar with the setup
@@ -48,7 +48,7 @@ We will be using GitHub for version control, please make a GitHub account before
         2. The use of “the”?
 
 
-## The NLP virtual env setup guide:
+## The NLP virtual env setup guide
 - Open anaconda prompt on windows or terminal on MacOS/Linux 
 - Run the following:
   - `conda create -n nlp tensorflow`
@@ -56,7 +56,7 @@ We will be using GitHub for version control, please make a GitHub account before
   - `pip install numpy pandas jupyter gensim sklearn nltk stanza spacy flair danlp flake8`
 
 
-## Required Packages:
+## Required Packages
 installed using the command:
 `pip install packagename`
 where packagename in name of the package
