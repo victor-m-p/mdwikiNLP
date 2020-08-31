@@ -66,15 +66,15 @@ where packagename in name of the package
 |numpy | (Mathematical plugin for vector and matrice manipulation)|
 |pandas | (Dataframe for python)|
 |jupyter | (for notebook style code editing)|
-|**Machine learning**||
+|**Machine learning** |
 |gensim| |
 |tensorflow | (version 2 - for Keras)|
 |scikit-learn | (installed using sklearn) |
-| **Language** ||
+| **Language** | |
 |nltk ||
 |stanza | (stanford’s NLP Framework)|
 |spacy |  (a NLP framework)|
 |flair| (Zalando Research’s NLP Framework)|
 |danlp |(a Danish NLP Framework built on flair)|
-|**Other**||
+|**Other**| |
 |flake8 |(a linter for python, i.e. an code spell checker)|
