@@ -28,7 +28,7 @@ Note: The nature of this course is that you have to be diligent about putting as
 ### Workload ###
 Here's how much time you should roughly expect to spend on course activities each week. 
 
-+ Video lectures = 2.5 hours 
++ Video "textbook" = 2.5 hours 
 + Reading/study questions = 2-3 hours 
 + Group exercises = 2-3 hours
 + Coding assignment or final project work = 2-3 hours 
@@ -40,7 +40,7 @@ Here's how much time you should roughly expect to spend on course activities eac
 
 In each row of the schedule, you'll see what you need to do to keep up with the course that week. 
 
-1. **Watch/Read** - Watch the video lectures and do weekly readings
+1. **Watch/Read** - Watch the videos and do weekly readings
 2. **Exercises** - Do exercises with your study group to deepen your understanding of the content 
 3. **Classroom** - Attend the classroom session for hands-on training in Python progrmaming  
 4. **Assignments** - Occassional assignments to prepare you for the final exam 
@@ -51,7 +51,7 @@ Lesson Plan
 
 
 
-| Week | Watch/Read                     | Classroom (Weds)       | Exercises (due Wed 11pm)  | Assignments (due Fri 8am)  |
+| Week | Watch/Read (for Wed lecture)                     | Classroom (Fri)       | Exercises (due Fri 8am)  | Assignments (due Wed 8am)  |
 |------|-----------------------------------|------------------------|----------------------|------------------------|
 | 36   | [Introduction](class1.md)         | [Computer set-up](classroom_materials/class_1/classroom1.md)        | [Intro survey](https://forms.gle/bpX7XwtbLnQA1niq7)                      |         |
 | 37   | [Text processing](class2.md)      | Basic packages/modules | Unix, grep           | [Basic Python quiz](python.md)  		|
