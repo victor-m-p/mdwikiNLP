@@ -79,3 +79,7 @@ where packagename in name of the package
 |danlp | (a Danish NLP Framework built on flair) |
 |**Other**| |
 |flake8 | (a linter for python, i.e. an code spell checker) |
+
+
+## Materials used in class
+[Python script on Zipf's Law](classroom_materials/class_1/zipfs_law.py) 
