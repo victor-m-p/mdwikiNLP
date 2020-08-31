@@ -7,8 +7,9 @@ Overview
 
 |           | When?         | Where? | Who?                      |
 |-----------|---------------|--------|---------------------------|
-| Lectures  | Fri 8-10   | ONLINE/1441 - 110  | Rebekah Baglini           |
-| Classroom | Wed 8-10 | 1252 - 204  | Kenneth Enevoldsen |
+| Lecture | Wed 8-10 | 1252 - 204  | Rebekah Baglini |
+| Classroom | Fri 8-10   | 1441 - 110  | Kenneth Enevoldsen      |
+
 
 
 **Cognitive Science Msc | Semester 1 | Fall 2020** 
@@ -32,8 +33,8 @@ Here's how much time you should roughly expect to spend on course activities eac
 + Reading/study questions = 2-3 hours 
 + Group exercises = 2-3 hours
 + Coding assignment or final project work = 2-3 hours 
-+ Wednesday classroom = 2 hours
-+ Friday live lecture = 2 hours 
++ Friday classroom = 2 hours
++ Wednesday live lecture = 2 hours 
 
 
 ### Weekly work plan ### 
@@ -41,7 +42,7 @@ Here's how much time you should roughly expect to spend on course activities eac
 In each row of the schedule, you'll see what you need to do to keep up with the course that week. 
 
 1. **Watch/Read** - Watch the videos and do weekly readings
-2. **Exercises** - Do exercises with your study group to deepen your understanding of the content 
+2. **Lecture/Exercises** - Attend Weds lecture and do exercises with your study group to deepen your understanding of the content 
 3. **Classroom** - Attend the classroom session for hands-on training in Python progrmaming  
 4. **Assignments** - Occassional assignments to prepare you for the final exam 
 
