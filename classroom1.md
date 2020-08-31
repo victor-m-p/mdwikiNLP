@@ -10,16 +10,16 @@ The above are not mandatory, but recommended for following the course
 
 
 ## Anaconda
-We will be using the Anaconda Distribution for python. If you haven’t Installed it you can install it using their website. If you have it installed it be sure to update it using the command:
+We will be using the Anaconda Distribution for python. If you haven’t Installed it you can install it using their [website](https://docs.anaconda.com/anaconda/install)). If you have it installed it be sure to update it using the command:
 
 `conda update conda`
 
-If you feel a bit experimental I would personally recommend using homebrew to install anaconda for MacOS users. 
+If you feel a bit experimental I would personally recommend using [homebrew](https://brew.sh) to install anaconda for MacOS users. 
 
 You are not required to use the Anaconda Distribution, only recommended, however if you choose not to please make sure you have the required packages installed and that your python installation is properly set up with your code editor.
 
 ## Visual Studio Code
-I will be using Visual Studio Code (VS code) as my code editor, I recommend you use it as well, but you are free to use any code editor you want. You can install it from their website. The reasons why I recommend it is due to its integration with GitHub, it wonderful extensions as well as it ability to co-edit code in a google docs style format. If you choose to download this I recommend the following extensions:
+I will be using [Visual Studio Code](https://code.visualstudio.com) (VS code) as my code editor, I recommend you use it as well, but you are free to use any code editor you want. You can install it from their website. The reasons why I recommend it is due to its integration with GitHub, it wonderful extensions as well as it ability to co-edit code in a google docs style format. If you choose to download this I recommend the following extensions:
 
 |Extension| Usage | 
 |---|---|
@@ -31,11 +31,11 @@ I will be using Visual Studio Code (VS code) as my code editor, I recommend you 
 
 
 ## Github
-We will be using GitHub for version control, please make a GitHub account before class and make sure you have git installed on your machine. If you haven’t used GitHub before I recommend you take some time doing the GitHub QuickStart.
+We will be using GitHub for version control, please make a [GitHub account](https://github.com) before class and make sure you have [git](https://git-scm.com/downloads) installed on your machine. If you haven’t used GitHub before I recommend you take some time doing the [GitHub QuickStart](https://docs.github.com/en/github/getting-started-with-github/quickstart).
 
 
 ## Class Plan
-1.  setup a virtual environment, but feel free to do it beforehand see setup guide below
+1.  [setup a virtual environment](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/), but feel free to do it beforehand see setup guide below
 2. We will install the required packages, again feel free to do it beforehand see below
 3. Look at VS code so everyone is familiar with the setup
 4. We will make sure everyone reacquaint themselves with using git for version control (in the context of VS code)
