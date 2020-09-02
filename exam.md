@@ -59,10 +59,10 @@ The project has four components over the second half of the semester: **Proposal
 **
 
 *   October 23: Pitch<span class="Apple-converted-space" style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 12.8px;"> (instructions + submission on PeerGrade)</span>
-*   November 20: Progress report (informal, oral report - instructions in early Nov) 
-*   December 11+12: Poster sessions<span class="Apple-converted-space" style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 12.8px;"> </span>
-*   January 3: Synopsis due
-*   January 20-24: Oral exam<span class="Apple-converted-space" style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 12.8px;"> </span>
+*   November: Supervision sessions (see schedule) 
+*   December 2+4: Poster sessions<span class="Apple-converted-space" style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 12.8px;"> </span>
+*   January 4: Synopsis due
+*   January 25-28: Oral exam<span class="Apple-converted-space" style="text-shadow: none !important; letter-spacing: normal !important; margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 12.8px;"> </span>
 
 #### **Step 1: Project Pitch (due Oct 23) **
 
@@ -76,9 +76,9 @@ An approx. 2 page document outlining the problem, your approach, possible datase
 *   Proposes a preliminary experiment to run on the data (this will be reported on in the progress report), as well as the scope of the final total project.
 
 
-#### **Step 2: Poster session (due December 9, poster sessions on December 11 and 12) **
+#### **Step 2: Poster session (due Nov 30, poster sessions on December 2 and 4) **
 
-You/you and your group will design and print a poster to be displayed for the department. You will summarize the results of your work so far in text and figures, and you will have prepared a brief (3-5 minute) oral presentation to walk viewers through the poster. (Good practice for the oral exam!) Details on poster submission can be found here: [Posters](https://aunlp.github.io/mdwikiNLP/?fbclid=IwAR2gQSmqscEWI7wADBnI0BwUtCbiIF-hr_sXj5r-Nvz-mQNl-uy_3_qgBac#!posters.md)
+You/you and your group will design and print a poster to be displayed for the department. You will summarize the results of your work so far in text and figures, and you will have prepared a brief (3-5 minute) oral presentation to walk viewers through the poster. (Good practice for the oral exam!) Details on poster submission can be found here: [Posters](posters.md)
 
 #### **Step 3: Writing your Synopsis (due Jan 4) **
 
