@@ -1,4 +1,9 @@
 # Class 2: Basic Packages and Modules
-Work in progress
 * re, os
 * pandas, numpy ?
+
+
+## Plan for Class
+
+
+## Materials used in Class

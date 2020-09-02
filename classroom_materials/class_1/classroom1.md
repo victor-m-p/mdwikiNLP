@@ -34,7 +34,7 @@ I will be using [Visual Studio Code](https://code.visualstudio.com) (VS code) as
 We will be using GitHub for version control, please make a [GitHub account](https://github.com) before class and make sure you have [git](https://git-scm.com/downloads) installed on your machine. If you haven’t used GitHub before I recommend you take some time doing the [GitHub QuickStart](https://docs.github.com/en/github/getting-started-with-github/quickstart).
 
 
-## Class Plan
+## Plan for Class
 1.  [setup a virtual environment](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/), but feel free to do it beforehand see setup guide below
 2. We will install the required packages, again feel free to do it beforehand see below
 3. Look at VS code so everyone is familiar with the setup
@@ -85,7 +85,7 @@ where packagename in name of the package. Note that all of the packages listed b
 
 ---
 
-## Materials used in class
+## Materials used in Class
 [Python script on Zipf's Law](classroom_materials/class_1/zipfs_law.py) 
 
 <!---
