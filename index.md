@@ -52,9 +52,9 @@ Lesson Plan
 
 
 
-| Week | Watch/Read (for Wed lecture)                     | Classroom (Fri)       | Exercises (due Fri 8am)  | Assignments (due Wed 8am)  |
+| Week | Watch/Read (for Wed lecture)      | Classroom (Fri)       | Exercises (due Fri 8am)  | Assignments (due Wed 8am)  |
 |------|-----------------------------------|------------------------|----------------------|------------------------|
-| 36   | [Introduction](class1.md)         | [Computer set-up](classroom_materials/class_1/classroom1.md)        | [Intro survey](https://forms.gle/bpX7XwtbLnQA1niq7)                      |         |
+| 36   | [Introduction](class1.md)         | [Computer set-up](classroom_materials/class_1/classroom1.md)        |                  |  [Intro survey](https://forms.gle/bpX7XwtbLnQA1niq7)            |
 | 37   | [Text processing](class2.md)      | Basic packages/modules | Unix, grep           | [Basic Python quiz](python.md)  		|
 | 38   | [Language modeling](class3.md)    | Counts and collocations| Ngrams			   | [HW1 Spamlord](https://classroom.github.com/g/HUL5pc63)|
 | 39   | [Classification I](class4.md)     | NaiveBayes from scratch| NaiveBayes           |                        |
