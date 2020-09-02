@@ -86,7 +86,7 @@ where packagename in name of the package. Note that all of the packages listed b
 ---
 
 ## Materials used in Class
-[Python script on Zipf's Law](classroom_materials/class_1/zipfs_law.py) 
+[Python script on Zipf's Law](classroom_materials/class_01/zipfs_law.py) 
 
 <!---
 Personal Notes on lecture structure:
