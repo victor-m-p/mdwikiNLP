@@ -91,7 +91,7 @@ Still stuck?
 6. Bring it to classroom sessions to troubleshoot. 
 
 
-Assessment and exam
+Assessment 
 --------------
 
 ### Assessment/Academic goals 
@@ -111,30 +111,12 @@ In the evaluation of the student's performance, emphasis is placed on the extent
 - justify the choice between relevant methods and analyzes used for specific research questions within the field of natural language processing 
 - clear oral presentation of complex analyzes.
 
-### Preparing project for your final exam
-
-Start thinking about your final project idea as early as possible. If you would like to do a group assignment (*highly recommended*) you will have the opportunity to present a brief **project pitch** in week 43 (October 23) where you can recruit collaborators, or join someone else's cool project! 
-
-### Final exam details  
-Note: Oral exams will take place between January 25-28, 2021. 
-
-The exam is an individual oral exam based on a written synopsis. The duration is 30 minutes including the student's presentation of the synopsis project, followed by dialogue with the examiners and assessment. 
-
-The synopsis can be done as an individual or group assignment. If it is done as a group assignment, the final product must 
-
-(i) form a coherent text and 
-(ii) be organized so that it is possible to make individual assessments of the students contributing. 
-
-In other words, the contribution of each individual student to the whole assignment must be clearly delineated (excluding the introduction, conclusion and bibliography). 
-
-A maximum of three students can take part in a group assignment.
-- Length of individual synopsis: 4-7 standard pages (not including code and figures) 
-- Length of synopsis for 2 students: 8-14 standard pages (not including code and figures) 
-- Length of synopsis for 3 students: 12-21 standard pages (not including code and figures)
-
-
-
-Poster sessions
+Poster sessions + final exam 
 --------------
 
-Information on the poster sessions [can be found here](posters.md). 
+Information on the poster sessions [can be found here](posters.md).
+
+[Comprehensive exam information is here](exam.md)! 
+
+
+
