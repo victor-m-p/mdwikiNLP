@@ -25,7 +25,7 @@ J+M 3rd Chapter 2 ["Regular Expressions, Text Normalization, Edit Distance", pag
 
 4. Why are Regexes *not* equivalent to regular grammars in the Chomsky Hierarchy? 
 
-**Please post your answers in the week37 Slack channel by Wednesday 8am.** 
+Note: Please post your answers in the week37 Slack channel by Wednesday 8am.
 
 ### Comprehension questions 
 *From J+M 3rd Chapter 2 ["Regular Expressions, Text Normalization, Edit Distance"](https://web.stanford.edu/~jurafsky/slp3/2.pdf)*
@@ -49,5 +49,5 @@ results to check your code.
 2.7 Augment the minimum edit distance algorithm to output an alignment; you
 will need to store pointers and add a stage to compute the backtrace.
 
-**Please message your answers on Slack (your study group + Rebekah + Kenneth) by Wednesday 8am.** 
+Note: Please message your answers on Slack (your study group + Rebekah + Kenneth) by Wednesday 8am. 
 
