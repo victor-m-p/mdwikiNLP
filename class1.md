@@ -1,6 +1,6 @@
 Class 1: Introduction
 ============
-Read and watch before class on Friday (Week 36)
+Read and watch before lecture (Week 36)
 
 ### Reading 
 [Context of Natural Language Processing](https://medium.com/swlh/context-of-natural-language-processing-be3c945015b9)

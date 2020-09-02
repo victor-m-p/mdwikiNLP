@@ -49,30 +49,23 @@ In each row of the schedule, you'll see what you need to do to keep up with the 
 Lesson Plan 
 ---------------------
 
-
-
 | Week | Watch/Read                     | Classroom (Weds)       | Exercises (due Wed 11pm)  | Assignments (due Fri 8am)  |
 |------|-----------------------------------|------------------------|----------------------|------------------------|
-| 36   | [Introduction](class1.md)         | Computer set-up        | [Intro survey](https://forms.gle/bpX7XwtbLnQA1niq7)<sup>[1](#foot1)</sup>                       |         |
-| 37   | [Text processing](class2.md)      | Basic packages/modules | Unix, grep           | [Basic Python quiz](python.md)<sup>[1](#foot1)</sup>      		|
+| 36   | [Introduction](class1.md)         | Computer set-up        | [Intro survey](https://forms.gle/bpX7XwtbLnQA1niq7)                      |         |
+| 37   | [Text processing](class2.md)      | Basic packages/modules | Unix, grep           | [Basic Python quiz](python.md)  		|
 | 38   | [Language modeling](class3.md)    | Counts and collocations| Ngrams			   | [HW1 Spamlord](https://classroom.github.com/g/HUL5pc63)|
 | 39   | [Classification I](class4.md)     | NaiveBayes from scratch| NaiveBayes           |                        |
 | 40   | [Classification II](class5.md)    | Scikit-learn 			| 				       |[HW2 Sentiment](https://classroom.github.com/g/qUNponW_) |
 | 41   | [Information retrieval](class6.md)| Vectorization			| IR exercises  	   |                		|
 | 42   | [Project prep](class_break.md)    | BREAK                  | BREAK                | BREAK                  |
-| 43   | [Vector semantics](class7.md)     | Embeddings				|                      | Project pitch<sup>[2](#foot2)</sup>    		|
+| 43   | [Vector semantics](class7.md)     | Embeddings				|                      | Project pitch   		|
 | 44   | [NER/Relation extraction + Deep Learning](class8.md) | Clustering         |  NER/RE exercises |
 | 45   | [NLP in CogSci research](class9.md)| Huggingface transformers  |          |                        |
-| 46   | [Ethics in NLP](class10.md)       | Scraping data		    |           | Data/pipeline report<sup>[2](#foot2)</sup>     |
-| 47   | [NLP in industry](class11.md)     | Modal evaluation/validation |          | Ethics statement<sup>[2](#foot2)</sup>         |
-| 48   |         | Supervision<sup>[2](#foot2)</sup>    		   | Supervision<sup>[2](#foot2)</sup>               |                        |
-| 49   | [Poster instructions](posters.md) | Poster session 1<sup>[2](#foot2)</sup>         | Poster session 2<sup>[2](#foot2)</sup>          |                        |
-**Legend for Exercises and Assignments** 
-Unmarked = do with your study group 
+| 46   | [Ethics in NLP](class10.md)       | Scraping data		    |           | Data/pipeline report     |
+| 47   | [NLP in industry](class11.md)     | Modal evaluation/validation |          | Ethics statement         |
+| 48   |         | Supervision   		   | Supervision              |                        |
+| 49   | [Poster instructions](posters.md) | Poster session 1        | Poster session 2         |                        |
 
-<a name="foot1">1</a>: do individually 
-
-<a name="foot2">2</a>: do with your exam group
 
 
 Troubleshooting and email policy
