@@ -4,8 +4,8 @@ Text classification & Sentiment
 
 ## Videos 
 
-[Naive Bayes and Text Classification Videos](https://www.youtube.com/watch?v=Y1j_J53k7fo&list=PLaZQkZp6WhWxU3kA6wV0nb5dY1SXDEKWH) 
-(Playlist duration: 2 hours, 3 minutes and 42 seconds) 
+[Naive Bayes, Text Classification, and Sentiment Videos](https://www.youtube.com/playlist?list=PLSI4up6RakkgHsNl6PB5XW2X0DMH000n-) 
+(Playlist duration: 2 hours, 4 minutes, 46 seconds) 
 
 ## Readings
 
