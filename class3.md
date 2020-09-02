@@ -3,7 +3,7 @@ Class 3: Language modeling
 
 ## Videos
 
-[Language Modeling Playlist - videos 4_1-4_8](https://www.youtube.com/playlist?list=PLSI4up6RakkhmHgbaMCiDaxL-uOmAKoHH)(The Spelling correction videos, 5_1-5_4, are **optional**) 
+[Language Modeling Playlist - videos 4_1-4_8](https://www.youtube.com/playlist?list=PLSI4up6RakkhmHgbaMCiDaxL-uOmAKoHH) (The Spelling correction videos, 5_1-5_4, are **optional**) 
 
 (Playlist duration (minus Spelling Correction)) = 1 hour, 15 minutes) 
 
