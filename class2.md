@@ -2,7 +2,7 @@ Class 2: Introduction
 ============
 
 ## Videos 
-[Basic Text Processing and Edit Distance](https://www.youtube.com/playlist?list=PLSI4up6RakkjcdTwW6i_JAJuU5xmfX5tU)
+[Intro to video lectures + Basic Text Processing and Edit Distance](https://www.youtube.com/playlist?list=PLSI4up6RakkjcdTwW6i_JAJuU5xmfX5tU)
 (Playlist duration: 1 hours, 33 minutes) 
 
 ## Reading 
