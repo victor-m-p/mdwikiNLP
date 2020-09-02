@@ -8,7 +8,7 @@ Class 2: Introduction
 ## Reading 
 J+M 3rd Chapter 2 ["Regular Expressions, Text Normalization, Edit Distance", pages 1-25](https://web.stanford.edu/~jurafsky/slp3/2.pdf) 
 
-[Think Like a Computer Scientist: 1.11. Formal and Natural Languages](https://runestone.academy/runestone/books/published/thinkcspy/GeneralIntro/FormalandNaturalLanguages.html)
+[Think Like a Computer Scientist: 1.11. Formal and Natural Languages](https://runestone.academy/runestone/books/published/thinkcspy/GeneralIntro/FormalandNaturalLanguages.html) 
 
 [Exploring the Linguistics Behind Regular Expressions](https://www.freecodecamp.org/news/exploring-the-linguistics-behind-regular-expressions-596fab41146/#:~:text=The%20difference%20between%20regular%20expressions,over%20time%20without%20human%20premeditation.)
 

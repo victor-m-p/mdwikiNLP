@@ -80,6 +80,8 @@ An approx. 2 page document outlining the problem, your approach, possible datase
 
 You/you and your group will design and print a poster to be displayed for the department. You will summarize the results of your work so far in text and figures, and you will have prepared a brief (3-5 minute) oral presentation to walk viewers through the poster. (Good practice for the oral exam!) Details on poster submission can be found here: [Posters](posters.md)
 
+More information about the poster sessions [can be found here](posters.md).
+
 #### **Step 3: Writing your Synopsis (due Jan 4) **
 
 The final synopsis  describes your project and final results. Conceptually, it should include the content of both the proposal and progress report, though they will be changed. The final report describes and motivates the problem, places it in context of related work, describes the dataset and your approach, and reports results with discussion and thoughts for future work.
