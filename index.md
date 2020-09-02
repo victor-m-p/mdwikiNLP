@@ -7,8 +7,9 @@ Overview
 
 |           | When?         | Where? | Who?                      |
 |-----------|---------------|--------|---------------------------|
-| Lectures  | Fri 8-10   | ONLINE/1441 - 110  | Rebekah Baglini           |
-| Classroom | Wed 8-10 | 1252 - 204  | Kenneth Enevoldsen |
+| Lecture | Wed 8-10 | 1252 - 204  | Rebekah Baglini |
+| Classroom | Fri 8-10   | 1441 - 110  | Kenneth Enevoldsen      |
+
 
 
 **Cognitive Science Msc | Semester 1 | Fall 2020** 
@@ -28,20 +29,20 @@ Note: The nature of this course is that you have to be diligent about putting as
 ### Workload ###
 Here's how much time you should roughly expect to spend on course activities each week. 
 
-+ Video lectures = 2.5 hours 
++ Video "textbook" = 2.5 hours 
 + Reading/study questions = 2-3 hours 
 + Group exercises = 2-3 hours
 + Coding assignment or final project work = 2-3 hours 
-+ Wednesday classroom = 2 hours
-+ Friday live lecture = 2 hours 
++ Friday classroom = 2 hours
++ Wednesday live lecture = 2 hours 
 
 
 ### Weekly work plan ### 
 
 In each row of the schedule, you'll see what you need to do to keep up with the course that week. 
 
-1. **Watch/Read** - Watch the video lectures and do weekly readings
-2. **Exercises** - Do exercises with your study group to deepen your understanding of the content 
+1. **Watch/Read** - Watch the videos and do weekly readings
+2. **Lecture/Exercises** - Attend Weds lecture and do exercises with your study group to deepen your understanding of the content 
 3. **Classroom** - Attend the classroom session for hands-on training in Python progrmaming  
 4. **Assignments** - Occassional assignments to prepare you for the final exam 
 
@@ -51,10 +52,10 @@ Lesson Plan
 
 
 
-| Week | Watch/Read                     | Classroom (Weds)       | Exercises (due Wed 11pm)  | Assignments (due Fri 8am)  |
+| Week | Watch/Read (for Wed lecture)      | Classroom (Fri)       | Exercises (due Fri 8am)  | Assignments (due Wed 8am)  |
 |------|-----------------------------------|------------------------|----------------------|------------------------|
-| 36   | [Introduction](class1.md)         | [Introduction and Setup](classroom_materials/class_01/class_01.md)        | [Intro survey](https://forms.gle/bpX7XwtbLnQA1niq7)                      |         |
-| 37   | [Text processing](class2.md)      | Basic packages/modules | Unix, grep           | [Basic Python quiz](python.md)  		|
+| 36   | [Introduction](class1.md)         | [Introduction and Setup](classroom_materials/class_01/class_01.md)        |                  |  [Intro survey](https://forms.gle/bpX7XwtbLnQA1niq7), [Join Slack](https://join.slack.com/t/nlpf20/shared_invite/zt-gt1xt61j-9MT8V84bQ1AeJUOF5nnTRg)            |
+| 37   | [Text processing](class2.md)      | Basic packages/modules | [Study group exercises](class2.md)   | [Basic Python quiz](python.md) 		|
 | 38   | [Language modeling](class3.md)    | Counts and collocations| Ngrams			   | [HW1 Spamlord](https://classroom.github.com/g/HUL5pc63)|
 | 39   | [Classification I](class4.md)     | Naive Bayes from scratch| NaiveBayes           |                        |
 | 40   | [Classification II](class5.md)    | Scikit-learn 			| 				       |[HW2 Sentiment](https://classroom.github.com/g/qUNponW_) |
