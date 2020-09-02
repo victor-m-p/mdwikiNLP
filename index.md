@@ -53,10 +53,10 @@ Lesson Plan
 
 | Week | Watch/Read                     | Classroom (Weds)       | Exercises (due Wed 11pm)  | Assignments (due Fri 8am)  |
 |------|-----------------------------------|------------------------|----------------------|------------------------|
-| 36   | [Introduction](class1.md)         | [Introduction and Setup](classroom_materials/class_1/classroom1.md)        | [Intro survey](https://forms.gle/bpX7XwtbLnQA1niq7)                      |         |
+| 36   | [Introduction](class1.md)         | [Introduction and Setup](classroom_materials/class_01/class_01.md)        | [Intro survey](https://forms.gle/bpX7XwtbLnQA1niq7)                      |         |
 | 37   | [Text processing](class2.md)      | Basic packages/modules | Unix, grep           | [Basic Python quiz](python.md)  		|
 | 38   | [Language modeling](class3.md)    | Counts and collocations| Ngrams			   | [HW1 Spamlord](https://classroom.github.com/g/HUL5pc63)|
-| 39   | [Classification I](class4.md)     | NaiveBayes from scratch| NaiveBayes           |                        |
+| 39   | [Classification I](class4.md)     | Naive Bayes from scratch| NaiveBayes           |                        |
 | 40   | [Classification II](class5.md)    | Scikit-learn 			| 				       |[HW2 Sentiment](https://classroom.github.com/g/qUNponW_) |
 | 41   | [Information retrieval](class6.md)| Vectorization			| IR exercises  	   |                		|
 | 42   | [Project prep](class_break.md)    | BREAK                  | BREAK                | BREAK                  |
