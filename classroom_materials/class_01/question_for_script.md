@@ -6,6 +6,7 @@ This is a good exercise to look at code written by someone else and take from it
 
 1) Please take a look at the *structure* script (it is available on element and facebook). Refrain from looking into functions for now. You need to be able to answer the following when done:
    1) What does the string in the top do?
+      1) It is a long-comment string (if that is what is referred to).
    2) Where is external code loaded in
    3) What does the `if __name__ == "__main__":` section do?
    4) Where is code run?
