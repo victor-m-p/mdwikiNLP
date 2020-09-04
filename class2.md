@@ -2,13 +2,13 @@ Class 2: Introduction
 ============
 
 ## Videos 
-[Basic Text Processing and Edit Distance](https://www.youtube.com/watch?v=808M7q8QX0E&list=PLaZQkZp6WhWy4_bClrW9EGQKnUUD9yp8V)
-(Playlist duration: 1 hours, 14 minutes and 30 seconds) 
+[Intro to video lectures + Basic Text Processing and Edit Distance](https://www.youtube.com/playlist?list=PLSI4up6RakkjcdTwW6i_JAJuU5xmfX5tU)
+(Playlist duration: 1 hours, 33 minutes) 
 
 ## Reading 
 J+M 3rd Chapter 2 ["Regular Expressions, Text Normalization, Edit Distance", pages 1-25](https://web.stanford.edu/~jurafsky/slp3/2.pdf) 
 
-[Think Like a Computer Scientist: 1.11. Formal and Natural Languages](https://runestone.academy/runestone/books/published/thinkcspy/GeneralIntro/FormalandNaturalLanguages.html)
+[Think Like a Computer Scientist: 1.11. Formal and Natural Languages](https://runestone.academy/runestone/books/published/thinkcspy/GeneralIntro/FormalandNaturalLanguages.html) 
 
 [Exploring the Linguistics Behind Regular Expressions](https://www.freecodecamp.org/news/exploring-the-linguistics-behind-regular-expressions-596fab41146/#:~:text=The%20difference%20between%20regular%20expressions,over%20time%20without%20human%20premeditation.)
 
