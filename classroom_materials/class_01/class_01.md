@@ -87,6 +87,8 @@ where packagename in name of the package. Note that all of the packages listed b
 
 ## Materials used in Class
 [Python script on Zipf's Law](classroom_materials/class_01/zipfs_law.py) 
+[Question for script](classroom_materials/class_01/question_for_script.md)
+
 
 <!---
 Personal Notes on lecture structure:
@@ -100,6 +102,9 @@ Personal Notes on lecture structure:
    4. liveshare
    5. Other tasks such as Markdown and csv
 4. Script
-   1. 
+
+
+Job application
+chcaa@cas.au.dk
 -->
 
